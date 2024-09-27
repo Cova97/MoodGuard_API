@@ -133,5 +133,5 @@ Este proyecto está bajo la Licencia MIT. Para más información, consulta el ar
 ## **Contacto**
 Si tienes preguntas o sugerencias, no dudes en contactarnos en:
 
-- Correo: soporte@moodguard.com
-- GitHub: [Repositorio de MoodGuard](https://github.com/tu_usuario/moodguard)
+- Correo: acovamartinez@gmail.com
+- GitHub: [Repositorio de MoodGuard](https://github.com/Cova97/DepreSacan_API)
