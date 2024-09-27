@@ -1,7 +1,3 @@
-Aquí tienes un ejemplo detallado de un archivo `README.md` para tu proyecto de IA que ayuda a detectar síntomas de depresión. Lo he estructurado para que sea claro y fácil de seguir para un proyecto a nivel universitario.
-
----
-
 # **MoodGuard: IA para la Detección de Síntomas de Depresión**
 
 MoodGuard es una herramienta de inteligencia artificial diseñada para ayudar a detectar síntomas de depresión en textos escritos. Utiliza el modelo de lenguaje GPT-4 ajustado para identificar posibles indicios de depresión en el lenguaje cotidiano, proporcionando una indicación rápida de si los síntomas están presentes o no.
