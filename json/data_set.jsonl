@@ -1,0 +1,724 @@
+{"prompt": "Los trastornos depresivos se caracterizan por una tristeza de una intensidad o una duraci\u00f3n suficiente como para interferir en la funcionalidad y, en ocasiones, por una disminuci\u00f3n del inter\u00e9s o del placer despertado por las actividades. Se desconoce la causa exacta, pero probablemente tiene que ver con la herencia, cambios en las concentraciones de neurotransmisores, una alteraci\u00f3n en la funci\u00f3n neuroendocrina y factores psicosociales. El diagn\u00f3stico se basa en la anamnesis. En el tratamiento se utilizan f\u00e1rmacos, psicoterapia o ambos y en ocasiones terapia electroconvulsiva o estimulaci\u00f3n magn\u00e9tica transcraneal r\u00e1pida (rEMT)", "completion": "depresi\u00f3n"}
+{"prompt": "Cinco (o m\u00e1s) de los s\u00edntomas siguientes han estado presentes durante el mismo per\u00edodo de dos semanas y representan un cambio del funcionamiento previo; al menos uno de los s\u00edntomas es (1) estado de \u00e1nimo deprimido o (2) p\u00e9rdida de inter\u00e9s o de placer.", "completion": "depresi\u00f3n"}
+{"prompt": "Estado de \u00e1nimo deprimido la mayor parte del d\u00eda, casi todos los d\u00edas, seg\u00fan se desprende de la informaci\u00f3n subjetiva (p. ej., se siente triste, vac\u00edo, sin esperanza) o de la observaci\u00f3n por parte de otras personas (p. ej., se le ve lloroso). (Nota: En ni\u00f1os y adolescentes, el estado de \u00e1nimo puede ser irritable.)", "completion": "depresi\u00f3n"}
+{"prompt": "Disminuci\u00f3n importante del inter\u00e9s o el placer por todas o casi todas las actividades la mayor parte del d\u00eda, casi todos los d\u00edas (como se desprende de la informaci\u00f3n subjetiva o de la observaci\u00f3n).", "completion": "depresi\u00f3n"}
+{"prompt": "P\u00e9rdida importante de peso sin hacer dieta o aumento de peso (p. ej., modificaci\u00f3n de m\u00e1s del 5% del peso corporal en un mes) o disminuci\u00f3n o aumento del apetito casi todos los d\u00edas. (Nota: En los ni\u00f1os, considerar el fracaso para el aumento de peso esperado.)", "completion": "depresi\u00f3n"}
+{"prompt": "Insomnio o hipersomnia casi todos los d\u00edas.", "completion": "depresi\u00f3n"}
+{"prompt": "Agitaci\u00f3n o retraso psicomotor casi todos los d\u00edas (observable por parte de otros; no simplemente la sensaci\u00f3n subjetiva de inquietud o de enlentecimiento).", "completion": "depresi\u00f3n"}
+{"prompt": "Fatiga o p\u00e9rdida de energ\u00eda casi todos los d\u00edas.", "completion": "depresi\u00f3n"}
+{"prompt": "Sentimiento de inutilidad o culpabilidad excesiva o inapropiada (que puede ser delirante) casi todos los d\u00edas (no simplemente el autorreproche o culpa por estar enfermo).", "completion": "depresi\u00f3n"}
+{"prompt": "Disminuci\u00f3n de la capacidad para pensar o concentrarse, o para tomar decisiones, casi todos los d\u00edas (a partir de la informaci\u00f3n subjetiva o de la observaci\u00f3n por parte de otras personas). Pensamientos de muerte recurrentes (no s\u00f3lo miedo a morir), ideas suicidas recurrentes sin un plan determinado, intento de suicidio o un plan espec\u00edfico para llevarlo a cabo.", "completion": "depresi\u00f3n"}
+{"prompt": "B. Los s\u00edntomas causan malestar cl\u00ednicamente significativo o deterioro en lo social, laboral u otras \u00e1reas importantes del funcionamiento.", "completion": "depresi\u00f3n"}
+{"prompt": "C. El episodio no se puede atribuir a los efectos fisiol\u00f3gicos de una sustancia o de otra afecci\u00f3n m\u00e9dica.", "completion": "depresi\u00f3n"}
+{"prompt": "D. El episodio de depresi\u00f3n mayor no se explica mejor por un trastorno esquizoafectivo, esquizofrenia, un trastorno esquizofreniforme, trastorno delirante, u otro trastorno especificado o no especificado del espectro de la esquizofrenia y otros trastornos psic\u00f3ticos.", "completion": "depresi\u00f3n"}
+{"prompt": "E. Nunca ha habido un episodio man\u00edaco o hipoman\u00edaco.", "completion": "depresi\u00f3n"}
+{"prompt": "Especificar:", "completion": "depresi\u00f3n"}
+{"prompt": "Con caracter\u00edsticas mixtas.", "completion": "depresi\u00f3n"}
+{"prompt": "Con caracter\u00edsticas melanc\u00f3licas.", "completion": "depresi\u00f3n"}
+{"prompt": "Con caracter\u00edsticas at\u00edpicas.", "completion": "depresi\u00f3n"}
+{"prompt": "Con caracter\u00edsticas psic\u00f3ticas congruentes con el estado de \u00e1nimo.", "completion": "depresi\u00f3n"}
+{"prompt": "Con caracter\u00edsticas psic\u00f3ticas no congruentes con el estado de \u00e1nimo.", "completion": "depresi\u00f3n"}
+{"prompt": "Con cataton\u00eda.", "completion": "depresi\u00f3n"}
+{"prompt": "Con inicio en el periparto.", "completion": "depresi\u00f3n"}
+{"prompt": "Con patr\u00f3n estacional (s\u00f3lo episodio recurrente).: trastorno de desregulaci\u00f3n disruptiva del estado de \u00e1nimo, trastorno de depresi\u00f3n mayor, trastorno depresivo persistente (distimia), trastorno disf\u00f3rico premenstrual, trastorno depresivo inducido por sustancias/medicamentos, trastorno depresivo por otra afecci\u00f3n m\u00e9dica, y otros trastornos depresivos especificados y no especificados", "completion": "depresi\u00f3n"}
+{"prompt": "Separaci\u00f3n en el DSM-5 :Los trastornos depresivos se separan del cap\u00edtulo de trastornos bipolares en el DSM-5.", "completion": "depresi\u00f3n"}
+{"prompt": "Caracter\u00edsticas comunes :Los trastornos depresivos comparten un estado de \u00e1nimo triste, vac\u00edo o irritable, con cambios som\u00e1ticos y cognitivos que afectan la funcionalidad.", "completion": "depresi\u00f3n"}
+{"prompt": "Diferencias entre los trastornos :Se distinguen por la duraci\u00f3n, presentaci\u00f3n temporal o etiolog\u00eda.", "completion": "depresi\u00f3n"}
+{"prompt": "Trastorno de desregulaci\u00f3n disruptiva :Introducido para abordar el posible sobrediagn\u00f3stico del trastorno bipolar en ni\u00f1os.", "completion": "depresi\u00f3n"}
+{"prompt": "Afecta a ni\u00f1os menores de 12 a\u00f1os con irritabilidad persistente y episodios extremos de descontrol conductual.", "completion": "depresi\u00f3n"}
+{"prompt": "Pron\u00f3stico del trastorno de desregulaci\u00f3n disruptiva :Los ni\u00f1os con este trastorno tienden a desarrollar trastornos depresivos unipolares o de ansiedad al llegar a la adolescencia y adultez.", "completion": "depresi\u00f3n"}
+{"prompt": "Trastorno depresivo mayor :Caracterizado por episodios de al menos dos semanas con cambios en afecto, cognici\u00f3n y funciones neurovegetativas.Puede diagnosticarse con un solo episodio, aunque es recurrente en la mayor\u00eda de los casos.", "completion": "depresi\u00f3n"}
+{"prompt": "Duelo vs. depresi\u00f3n mayor: El duelo no induce normalmente un episodio depresivo mayor, pero cuando ambos coinciden, el pron\u00f3stico es peor.", "completion": "depresi\u00f3n"}
+{"prompt": "Depresi\u00f3n relacionada con el duelo: Las personas vulnerables a trastornos depresivos pueden beneficiarse del tratamiento antidepresivo.", "completion": "depresi\u00f3n"}
+{"prompt": "Trastorno depresivo persistente (distimia): Diagnosticado cuando los s\u00edntomas persisten por al menos dos a\u00f1os en adultos o un a\u00f1o en ni\u00f1os.", "completion": "depresi\u00f3n"}
+{"prompt": "Trastorno disf\u00f3rico premenstrual: Incluido en la Secci\u00f3n II del DSM-5, se caracteriza por s\u00edntomas depresivos que comienzan despu\u00e9s de la ovulaci\u00f3n y remiten tras la menstruaci\u00f3n.", "completion": "depresi\u00f3n"}
+{"prompt": "Depresi\u00f3n y sustancias/afecciones m\u00e9dicas: Muchas sustancias y afecciones m\u00e9dicas est\u00e1n asociadas con trastornos depresivos, lo cual est\u00e1 reconocido en el diagn\u00f3stico del trastorno depresivo debido a otra afecci\u00f3n m\u00e9dica.", "completion": "depresi\u00f3n"}
+{"prompt": "Trastorno de Desregulaci\u00f3n Destructiva del Estado de \u00c1nimo :Este trastorno se caracteriza por accesorios de c\u00f3lera graves y recurrentes, tanto verbales como esencialmente. Estos accesos son desproporcionados a la situaci\u00f3n que los provocan y ocurren, en promedio, tres veces por semana. Adem\u00e1s, el estado de \u00e1nimo es persistentemente irritable o irascible entre estos episodios, observable por otras personas. Los s\u00edntomas deben durar al menos 12 meses sin ning\u00fan per\u00edodo de tres meses consecutivos sin ellos, y deben manifestarse en dos o m\u00e1s contextos, como en el hogar o en la escuela. El diagn\u00f3stico solo se puede realizar entre los 6 y los 18 a\u00f1os, con el inicio de los s\u00edntomas antes de los 10 a\u00f1os. Este trastorno no debe coexistir con trastornos como el trastorno bipolar, pero puede coexistir con trastornos como el d\u00e9ficit de atenci\u00f3n e hiperactividad.", "completion": "depresi\u00f3n"}
+{"prompt": "Trastorno de desregulaci\u00f3n destructiva del estado de. Accesos de c\u00f3lera graves y recurrentes que se manifiestan verbalmente (p. ej., rabietas verbales) y/o con el comportamiento (p. ej., agresi\u00f3n f\u00edsica a personas o propiedades) Entre los principales\u00a0rasgos caracter\u00edsticos de la depresi\u00f3n\u00a0se destacan la tristeza permanente, la p\u00e9rdida de inter\u00e9s o placer en las actividades de la vida cotidiana (anhedonia), el aislamiento, los trastornos del sue\u00f1o y del apetito, la falta de concentraci\u00f3n y la sensaci\u00f3n de cansancio.", "completion": "depresi\u00f3n"}
+{"prompt": "Causas de la depresi\u00f3n: Las causas que originan la depresi\u00f3n\u00a0son m\u00faltiples, siendo las m\u00e1s comunes las siguientes: Antecedentes personales y/o familiares con cuadros depresivos. Composici\u00f3n qu\u00edmica, gen\u00e9tica y hormonal. Exposici\u00f3n a situaciones estresantes y traumas. Problemas econ\u00f3micos. Situaci\u00f3n laboral o desempleo. P\u00e9rdida o enfermedad de un ser querido o mascota. Rupturas sentimentales, divorcios.", "completion": "depresi\u00f3n"}
+{"prompt": "Enfermedades preexistentes que pueden provocar s\u00edntomas depresivos, como el hipotiroidismo, la mononucleosis, entre otras afecciones.", "completion": "depresi\u00f3n"}
+{"prompt": "Presiones de tipo social como el bullying (acoso escolar), cyberbulling (acoso por redes sociales) o mobbing (acoso laboral).", "completion": "depresi\u00f3n"}
+{"prompt": "El trastorno depresivo (o depresi\u00f3n) es un trastorno mental com\u00fan. Implica un estado de \u00e1nimo deprimido o la p\u00e9rdida del placer o el inter\u00e9s por actividades durante largos per\u00edodos de tiempo.", "completion": "depresi\u00f3n"}
+{"prompt": "La depresi\u00f3n es distinta de los cambios habituales del estado de \u00e1nimo y los sentimientos sobre el d\u00eda a d\u00eda. Puede afectar a todos los \u00e1mbitos de la vida, incluidas las relaciones familiares, de amistad y las comunitarias. Puede deberse a problemas en la escuela y laborales o causarlos.", "completion": "depresi\u00f3n"}
+{"prompt": "La depresi\u00f3n puede afectar a cualquiera. Quienes han vivido abusos, p\u00e9rdidas graves u otros eventos estresantes tienen m\u00e1s probabilidades de sufrirla. Las mujeres son m\u00e1s propensas a la depresi\u00f3n que los hombres.", "completion": "depresi\u00f3n"}
+{"prompt": "Un episodio depresivo es distinto de las variaciones habituales del estado de \u00e1nimo. Estos episodios abarcan la mayor parte del d\u00eda, casi todos los d\u00edas, durante al menos dos semanas.", "completion": "depresi\u00f3n"}
+{"prompt": ",La depresi\u00f3n es el resultado de interacciones complejas entre factores sociales, psicol\u00f3gicos y biol\u00f3gicos. Quienes han pasado por circunstancias vitales adversas (desempleo, luto, eventos traum\u00e1ticos) tienen m\u00e1s probabilidades de sufrir depresi\u00f3n. A su vez, la depresi\u00f3n puede generar m\u00e1s estr\u00e9s y disfunci\u00f3n, y empeorar la situaci\u00f3n vital de la persona afectada y, por consiguiente, la propia depresi\u00f3n.", "completion": "depresi\u00f3n"}
+{"prompt": "La depresi\u00f3n est\u00e1 estrechamente relacionada con la salud f\u00edsica y, por consiguiente, la salud f\u00edsica desempe\u00f1a un papel en la depresi\u00f3n. Muchos de los factores que influyen en la depresi\u00f3n (como la inactividad f\u00edsica o el uso nocivo del alcohol) tambi\u00e9n son factores de riesgo conocidos para enfermedades como las enfermedades cardiovasculares, el c\u00e1ncer, la diabetes y las enfermedades respiratorias. A su vez, las personas con estas enfermedades tambi\u00e9n pueden estar sufriendo depresi\u00f3n a causa de las dificultades asociadas con el manejo de su afecci\u00f3n.", "completion": "depresi\u00f3n"}
+{"prompt": "La depresi\u00f3n y la conducta autolesiva/el suicidio figuran entre las afecciones prioritarias abordadas en el Programa de Acci\u00f3n para Superar las Brechas en Salud Mental (mhGAP) (en ingl\u00e9s). El Programa tiene por objeto ayudar a los pa\u00edses a impulsar los servicios destinados a las personas con trastornos mentales, neurol\u00f3gicos y por abuso de sustancias a trav\u00e9s de la atenci\u00f3n prestada por trabajadores de la salud que no son especialistas en salud mental.", "completion": "depresi\u00f3n"}
+{"prompt": "La OMS ha elaborado manuales breves sobre intervenciones psicol\u00f3gicas para la depresi\u00f3n que pueden ser administradas a personas y grupos por terapeutas no especializados. Un ejemplo es el manual Enfrentando problemas plus (EP+), en el que se explica la utilizaci\u00f3n de la activaci\u00f3n conductual, el manejo del estr\u00e9s, el tratamiento para la resoluci\u00f3n de problemas y el fortalecimiento del apoyo social. Adem\u00e1s, en el manual Terapia interpersonal grupal para la depresi\u00f3n se describe el tratamiento en grupo de la depresi\u00f3n. Por \u00faltimo, el manual Pensamiento saludable versa sobre la utilizaci\u00f3n de la terapia cognitivo-conductual para tratar la depresi\u00f3n perinatal.", "completion": "depresi\u00f3n"}
+{"prompt": "La DEPRESI\u00d3N, no es lo mismo que estar TRISTE. Se trata de un problema clinico, una enfermedad, donde los s\u00edntomas se vuelven continuos, incapacitantes y puede llegar a complicarse: suicidio, consumo de sustancias, perdida de relaciones familiares y sociales, fracaso laboral", "completion": "depresi\u00f3n"}
+{"prompt": "a veces piensan que la depresi\u00f3n es solo estar triste, pero no, la depresi\u00f3n no necesariamente es que siempre estes triste, significa que cuando no est\u00e1s distra\u00eddo te sientes completamente perdido, te sientes desesperado, in\u00fatil y completamente solo", "completion": "depresi\u00f3n"}
+{"prompt": "La depresi\u00f3n es un trastorno mental muy serio que provoca infelicidad, culpabilidad e incapacidad para disfrutar de las cosas. Por mucho que tengas todo lo de la imagen, la depresi\u00f3n sigue ah\u00ed, no es que est\u00e9s distra\u00eddo", "completion": "depresi\u00f3n"}
+{"prompt": "La depresi\u00f3n es el nombre que se le pone a un conjunto de comportamientos que generalmente manifiestan inactividad, apat\u00eda, con sentimientos de tristeza la mayor parte del tiempo, p\u00e9rdida de placer, alteraci\u00f3n de la alimentaci\u00f3n y sue\u00f1o, y a veces ideaci\u00f3n suicida.", "completion": "depresi\u00f3n"}
+{"prompt": "uno sabe que est\u00e1 deprimido cuando tiene sue\u00f1o todo el d\u00eda, cu\u00e1ndo no sabe si lo que tiene es tristeza, cuando se da cuenta que el autoenga\u00f1o ya no funciona, que la melancol\u00eda no va a desaparecer ma\u00f1ana, que la esperanza no era esperanza si no negaci\u00f3n.", "completion": "depresi\u00f3n"}
+{"prompt": "La depresi\u00f3n no es una moda, es fea, es oscura, es abrumadora. Puede dejarte en cama durante d\u00edas sin motivarte ni siquiera a ba\u00f1arte, te har\u00e1 alejar a las personas que te aman, te dar\u00e1 inseguridad.", "completion": "depresi\u00f3n"}
+{"prompt": "Estar habituado al estado an\u00edmico deprimido implica que, cuando excepcionalmente sientes ilusi\u00f3n, esperanza, o fantaseas con que algo bueno pueda ocurrir, se inicie un mon\u00f3logo interno que cuestiona, boicotea, derrumba y anula la creencia de que ello suceda.", "completion": "depresi\u00f3n"}
+{"prompt": "La DEPRESI\u00d3N suele evolucionar lentamente, como si te resbalaras por un precipicio sin darte cuenta. Un d\u00eda, dejas de dormir bien, luego aparece el cansancio, desinter\u00e9s, p\u00e9rdida del placer. Sin que te des cuenta, se llega al punto de pensar que nada tiene sentido y querer morir.", "completion": "depresi\u00f3n"}
+{"prompt": "En mis episodios de depresi\u00f3n no puedo ni siquiera responder a las personas que m\u00e1s amo, me aislo, dejo de cuidarme, dejo de existir, bajo de peso constantemente, vivo cansado, estresado, ansioso, deprimido.", "completion": "depresi\u00f3n"}
+{"prompt": "La desesperaci\u00f3n no llega de golpe, se cuela despacio, como si quisiera asegurarse de que no hay escapatoria. Intent\u00e1s respirar, pero el aire parece no alcanzarte. Esa mezcla entre el duelo que ya ven\u00edas transitando y el nuevo que se suma te deja sin fuerzas, sin rumbo.", "completion": "depresi\u00f3n"}
+{"prompt": "La depresi\u00f3n se reconoce como una \u201ccondici\u00f3n m\u00e9dica o cerebral y un trastorno, m\u00e1s que una cuesti\u00f3n de voluntad\u201d. Los focos de alarma son que por lo menos durante dos semanas la persona presente tristeza y anhedonia.", "completion": "depresi\u00f3n"}
+{"prompt": "NO ES NORMAL sentirse todo el tiempo mal, triste, deca\u00eddo, pesimista, con ganar de morir, cansancio persistente, sin dormir bien o durmiendo demasiado, sin disfrutar. Se llama TRASTORNO DEPRESIVO, es un problema cl\u00ednico que debe tratarse y no dejar que siga empeorando.", "completion": "depresi\u00f3n"}
+{"prompt": "Depresi\u00f3n no es estar triste, no es del alma, es un desequilibrio biol\u00f3gico consistente en la insuficiencia de neurotransmisores reguladores del estado de \u00e1nimo, generando cuadros depresivos.", "completion": "depresi\u00f3n"}
+{"prompt": "En M\u00e9xico, 3.6 millones de personas adultas padecen depresi\u00f3n; de ellas, uno por ciento son casos severos, revela un estudio realizado en 2021 por los Servicios de Atenci\u00f3n Psiqui\u00e1trica (SAP) de la Secretar\u00eda de Salud", "completion": "depresi\u00f3n"}
+{"prompt": "Tristeza, Sensaci\u00f3n de decaimiento o infelicidad en respuesta a una aflicci\u00f3n, des\u00e1nimo o desilusi\u00f3n. Si es continua, podr\u00eda indicar depresi\u00f3n.", "completion": "depresi\u00f3n"}
+{"prompt": "El trastorno depresivo afecta el estado an\u00edmico (tornandose triste, decaido, irritable, el disfrute de las cosas se pierde, el sue\u00f1o, apetito y sexualidad se altera, los pensamientos se tornan negativos, pesimistas y grises, la motivaci\u00f3n y energ\u00eda decaen", "completion": "depresi\u00f3n"}
+{"prompt": "Debo advertirte sobre mis lapsos depresivos. Esos en los que no logran animarme nuevos lugares, ni nuevas ocupaciones, ni nuevas personas. Esos periodos en los que veo la vida en una escala de tonos grises y me cierro, ante todo.", "completion": "depresi\u00f3n"}
+{"prompt": "Un trastorno depresivo que casi nadie comenta y es muy com\u00fan, porque afecta al 6% de la poblaci\u00f3n mundial es la: \ud835\udc03\ud835\udc22\ud835\udc2c\ud835\udc2d\ud835\udc22\ud835\udc26\ud835\udc22\ud835\udc1a. Antes tambi\u00e9n se le llamaba: \ud835\udc13\ud835\udc2b\ud835\udc1a\ud835\udc2c\ud835\udc2d\ud835\udc28\ud835\udc2b\ud835\udc27\ud835\udc28 \ud835\udc03\ud835\udc1e\ud835\udc29\ud835\udc2b\ud835\udc1e\ud835\udc2c\ud835\udc22\ud835\udc2f\ud835\udc28 \ud835\udc0f\ud835\udc1e\ud835\udc2b\ud835\udc2c\ud835\udc22\ud835\udc2c\ud835\udc2d\ud835\udc1e\ud835\udc27\ud835\udc2d\ud835\udc1e. Y consiste en una persona que toda su vida ha estado pr\u00e1cticamente deprimido, irritable, de mal humor, con un estado de \u00e1nimo triste y bajo, pero sin llegar completamente a los s\u00edntomas del trastorno depresivo mayor. Por lo general son personas que desde ni\u00f1os o adolescentes han estado as\u00ed y no saben lo que es vivir sin depresi\u00f3n, pareciera que se acostumbraron a eso y se asombran cuando les indicamos tratamiento y sienten por primera vez lo que es vivir con un estado de \u00e1nimo normal.", "completion": "depresi\u00f3n"}
+{"prompt": "Trastorno de depresi\u00f3n mayor El trastorno de depresi\u00f3n mayor requiere la presencia de al menos cinco s\u00edntomas durante un per\u00edodo de dos semanas, que representan un cambio significativo en el funcionamiento. Los s\u00edntomas incluyen un estado de \u00e1nimo deprimido o p\u00e9rdida de inter\u00e9s, junto con fatiga, insomnio, p\u00e9rdida o aumento de peso, entre otros. Estos s\u00edntomas causan un malestar cl\u00ednico significativo que afecta las actividades sociales, laborales o de otro tipo.", "completion": "depresi\u00f3n"}
+{"prompt": "Del lat\u00edn \u201cdepressio\u201d", "completion": "depresi\u00f3n"}
+{"prompt": "Sufijo de: decaimiento, disminuci\u00f3n, hacia abajo", "completion": "depresi\u00f3n"}
+{"prompt": "Vocablo pres: apretado, hundido, presionado", "completion": "depresi\u00f3n"}
+{"prompt": "Sufijo sio: acci\u00f3n y efecto", "completion": "depresi\u00f3n"}
+{"prompt": "Lo que significa: \u201cque est\u00e1 hundido\u201d", "completion": "depresi\u00f3n"}
+{"prompt": "El trastorno depresivo (o depresi\u00f3n) es un trastorno mental com\u00fan. Implica un estado de \u00e1nimo deprimido o la p\u00e9rdida del placer o el inter\u00e9s por actividades durante largos per\u00edodos de tiempo. (OMS, 2023)", "completion": "depresi\u00f3n"}
+{"prompt": "Trastornos depresivos se caracterizan por una tristeza de una intensidad o una duraci\u00f3n suficiente como para interferir en la funcionalidad y, en ocasiones, por una disminuci\u00f3n del inter\u00e9s o del placer despertado por las actividades. (Coryell, W., 2023)", "completion": "depresi\u00f3n"}
+{"prompt": "Es una enfermedad com\u00fan pero grave que interfiere con la vida diaria, con la capacidad para trabajar, dormir, estudiar, comer y disfrutar de la vida. La depresi\u00f3n es causada por una combinaci\u00f3n de factores gen\u00e9ticos, biol\u00f3gicos, ambientales y psicol\u00f3gicos. (OPS, s.f.)", "completion": "depresi\u00f3n"}
+{"prompt": "Trastorno mental caracterizado por un estado de \u00e1nimo deprimido afectando la funcionalidad individual con la capacidad de causar desinter\u00e9s en las actividades diarias durante largos periodos de tiempo", "completion": "depresi\u00f3n"}
+{"prompt": "Hip\u00f3crates: teor\u00eda humoral - 4 humores distintos: sangre (aire y primavera), flema (agua e invierno), bilis negra (tierra y oto\u00f1o) y bilis amarilla (fuego y verano)", "completion": "depresi\u00f3n"}
+{"prompt": "La enfermedad y el sufrimiento podr\u00edan provenir del interior de la persona y sus alrededores y no por un Dios", "completion": "depresi\u00f3n"}
+{"prompt": "Galeno: retoma teor\u00eda humoral -> 4 temperamentos: sangre - sangu\u00edneo, flema - flem\u00e1tico, bilis negra - melanc\u00f3lico, bilis amarilla - col\u00e9rico.Temperamento melanc\u00f3lico: descripci\u00f3n temprana de la depresi\u00f3n", "completion": "depresi\u00f3n"}
+{"prompt": "Robert Burton escribe la Anatom\u00eda de la melancol\u00eda, la discusi\u00f3n m\u00e1s completa de la melancol\u00eda que incluye descripciones de causas, s\u00edntomas y posibles curas", "completion": "depresi\u00f3n"}
+{"prompt": "Pinel -> melancol\u00eda: delirio orientado a una idea fija, acompa\u00f1ado por una pasi\u00f3n y la clasific\u00f3 en dos: expansiva (delirios de poder) y depresiva (tristeza y sufrimiento)", "completion": "depresi\u00f3n"}
+{"prompt": "Kraepelin: \u201clocura maniacodepresiva\u201d -> 2 fases Man\u00edaca: irritabilidad, alucionaciones, alta actividad motora, exaltaci\u00f3n del esto de \u00e1nimo. Depresiva: ideaciones suicidas, baja actividad motora", "completion": "depresi\u00f3n"}
+{"prompt": "Kraepelin: \u201clocura maniacodepresiva\u201d -> 2 fases Man\u00edaca: irritabilidad, alucionaciones, alta actividad motora, exaltaci\u00f3n del esto de \u00e1nimo.Depresiva: ideaciones suicidas, baja actividad motora", "completion": "depresi\u00f3n"}
+{"prompt": "Una mujer puede describir a la depresi\u00f3n as\u00ed: melancol\u00eda fija. Un var\u00f3n define a la depresi\u00f3n com\u00fanmente como: rabia difusa.", "completion": "depresi\u00f3n"}
+{"prompt": "La depresi\u00f3n se muestra de dos formas diferentes la primera es que te importa en exceso cada detalle de lo que crees que est\u00e1 mal en t\u00fa vida y la segunda es que sientes una profunda indiferencia con tu vida o aspectos de ella.", "completion": "depresi\u00f3n"}
+{"prompt": "Criterio C : El episodio depresivo no debe atribuirse a los efectos fisiol\u00f3gicos de una sustancia oa otra afecci\u00f3n m\u00e9dica. Los criterios AC conforman un episodio de depresi\u00f3n mayor.", "completion": "depresi\u00f3n"}
+{"prompt": "Respuestas a una p\u00e9rdida significativa : Pueden incluir tristeza intensa, rumiaci\u00f3n sobre la p\u00e9rdida, insomnio, p\u00e9rdida de apetito y peso, que se asemejan a un episodio depresivo. Aunque estos s\u00edntomas pueden ser normales tras una p\u00e9rdida, es importante considerar si hay un episodio de depresi\u00f3n mayor adicional. Esta decisi\u00f3n se basa en la historia cl\u00ednica del individuo y las normas culturales de expresi\u00f3n del malestar.", "completion": "depresi\u00f3n"}
+{"prompt": "Criterio D : El episodio depresivo mayor no debe explicarse mejor por un trastorno esquizoafectivo, esquizofrenia u otro trastorno psic\u00f3tico.", "completion": "depresi\u00f3n"}
+{"prompt": "Criterio E : Nunca debe haber ocurrido un episodio man\u00edaco o hipoman\u00edaco, a menos que haya sido inducido por sustancias o relacionadas con una afecci\u00f3n m\u00e9dica", "completion": "depresi\u00f3n"}
+{"prompt": "Distinci\u00f3n entre culpabilidad y episodio depresivo mayor (EDM) :", "completion": "depresi\u00f3n"}
+{"prompt": "La culpabilidad se asocia a sentimientos de vac\u00edo y p\u00e9rdida, mientras que el EDM se caracteriza por un estado de \u00e1nimo deprimido persistente.", "completion": "depresi\u00f3n"}
+{"prompt": "La disforia de la culpabilidad suele disminuir en d\u00edas o semanas y ocurre en oleadas relacionadas con recuerdos del difunto, mientras que el EDM es m\u00e1s continuo y no se vincula a pensamientos espec\u00edficos.", "completion": "depresi\u00f3n"}
+{"prompt": "La culpabilidad puede acompa\u00f1arse de emociones positivas, lo que no es caracter\u00edstico del EDM.", "completion": "depresi\u00f3n"}
+{"prompt": "En la culpabilidad, la autoestima se mantiene, mientras que en el EDM son comunes los sentimientos de inutilidad.", "completion": "depresi\u00f3n"}
+{"prompt": "Si en la culpabilidad hay ideas de autoanulaci\u00f3n, suelen estar vinculadas a la sensaci\u00f3n de haber fallado al difunto, mientras que en el EDM hay autocr\u00edtica o rumiaci\u00f3n pesimista.", "completion": "depresi\u00f3n"}
+{"prompt": "Cuando est\u00e1s feliz, disfrutas la m\u00fasica, pero cuando est\u00e1s triste, entiendes la letra.", "completion": "depresi\u00f3n"}
+{"prompt": "La felicidad es el privilegio de ser bien enga\u00f1ado.", "completion": "depresi\u00f3n"}
+{"prompt": "Cuando el coraz\u00f3n se decepciona, el alma llora.", "completion": "depresi\u00f3n"}
+{"prompt": "Si nunca esperas nada de nadie nunca te decepcionar\u00e1.", "completion": "depresi\u00f3n"}
+{"prompt": "La decepci\u00f3n, y la traici\u00f3n causan el mismo dolor.", "completion": "depresi\u00f3n"}
+{"prompt": "Una decepci\u00f3n de quien amas es mas dolorosa que mil espadas.", "completion": "depresi\u00f3n"}
+{"prompt": "Dime amigo: \u00bfLa vida es triste o soy triste yo?", "completion": "depresi\u00f3n"}
+{"prompt": "A veces solo quiero desaparecer sin dejar rastro.", "completion": "depresi\u00f3n"}
+{"prompt": "Estoy cansado de luchar contra algo que no puedo vencer.", "completion": "depresi\u00f3n"}
+{"prompt": "Me estoy hundiendo en la oscuridad y no veo la salida.", "completion": "depresi\u00f3n"}
+{"prompt": "A veces, el dolor es lo \u00fanico que me recuerda que sigo vivo.", "completion": "depresi\u00f3n"}
+{"prompt": "Es incre\u00edble c\u00f3mo puedo sentirme tan solo, rodeado de gente.", "completion": "depresi\u00f3n"}
+{"prompt": "Sonr\u00edo para ocultar las l\u00e1grimas que nunca dejo caer.", "completion": "depresi\u00f3n"}
+{"prompt": "Estoy agotado emocionalmente, ya no s\u00e9 c\u00f3mo seguir.", "completion": "depresi\u00f3n"}
+{"prompt": "Desear\u00eda poder apagar mi mente por un rato.", "completion": "depresi\u00f3n"}
+{"prompt": "Me siento perdido, como si no perteneciera a ning\u00fan lugar.", "completion": "depresi\u00f3n"}
+{"prompt": "Todo lo que quiero es un respiro de este dolor constante.", "completion": "depresi\u00f3n"}
+{"prompt": "El vac\u00edo es cada vez m\u00e1s grande y no s\u00e9 c\u00f3mo llenarlo.", "completion": "depresi\u00f3n"}
+{"prompt": "Cada d\u00eda es una lucha contra mi propia mente.", "completion": "depresi\u00f3n"}
+{"prompt": "Solo quiero sentir algo, cualquier cosa que no sea esta tristeza.", "completion": "depresi\u00f3n"}
+{"prompt": "Me siento como una sombra de la persona que sol\u00eda ser.", "completion": "depresi\u00f3n"}
+{"prompt": "El silencio en mi mente es m\u00e1s ruidoso que cualquier grito.", "completion": "depresi\u00f3n"}
+{"prompt": "Estoy cansado de poner buena cara cuando por dentro me estoy desmoronando.", "completion": "depresi\u00f3n"}
+{"prompt": "La vida sigue, pero yo siento que estoy detenido en el tiempo.", "completion": "depresi\u00f3n"}
+{"prompt": "No s\u00e9 qui\u00e9n soy cuando no estoy triste.", "completion": "depresi\u00f3n"}
+{"prompt": "El sol brilla afuera, pero dentro de m\u00ed solo hay tormentas.", "completion": "depresi\u00f3n"}
+{"prompt": "Cada d\u00eda me siento m\u00e1s y m\u00e1s desconectado del mundo.", "completion": "depresi\u00f3n"}
+{"prompt": "Es como si estuviera gritando, pero nadie me escuchara.", "completion": "depresi\u00f3n"}
+{"prompt": "No hay un solo d\u00eda en el que no me sienta roto por dentro.", "completion": "depresi\u00f3n"}
+{"prompt": "Solo quiero dormir hasta que todo esto termine.", "completion": "depresi\u00f3n"}
+{"prompt": "Me siento como si estuviera caminando por la vida en autom\u00e1tico.", "completion": "depresi\u00f3n"}
+{"prompt": "A veces siento que lo mejor ser\u00eda dejar de intentar.", "completion": "depresi\u00f3n"}
+{"prompt": "Es como si estuviera aqu\u00ed f\u00edsicamente, pero mi mente est\u00e1 en otro lugar.", "completion": "depresi\u00f3n"}
+{"prompt": "Mi alma est\u00e1 cansada de luchar todos los d\u00edas.", "completion": "depresi\u00f3n"}
+{"prompt": "No s\u00e9 si alguna vez volver\u00e9 a sentirme bien de nuevo.", "completion": "depresi\u00f3n"}
+{"prompt": "Pregunto si todo este dolor vale la pena.", "completion": "depresi\u00f3n"}
+{"prompt": "Me siento como si estuviera constantemente al borde de un colapso.", "completion": "depresi\u00f3n"}
+{"prompt": "Me siento como si estuviera nadando en un oc\u00e9ano de tristeza.", "completion": "depresi\u00f3n"}
+{"prompt": "Cada vez que intento levantarme, algo me hunde de nuevo.", "completion": "depresi\u00f3n"}
+{"prompt": "El d\u00eda pasa y yo solo siento un vac\u00edo abrumador.", "completion": "depresi\u00f3n"}
+{"prompt": "La vida sigue, pero siento que yo me qued\u00e9 atr\u00e1s.", "completion": "depresi\u00f3n"}
+{"prompt": "A veces me pregunto si alguien realmente me echar\u00eda de menos.", "completion": "depresi\u00f3n"}
+{"prompt": "Siento que mi mente es mi peor enemigo.", "completion": "depresi\u00f3n"}
+{"prompt": "No puedo controlar los pensamientos oscuros que invaden mi mente.", "completion": "depresi\u00f3n"}
+{"prompt": "Cada d\u00eda es una batalla entre la tristeza y las ganas de seguir.", "completion": "depresi\u00f3n"}
+{"prompt": "Me siento atrapado en una vida que no quiero vivir.", "completion": "depresi\u00f3n"}
+{"prompt": "No s\u00e9 c\u00f3mo pedir ayuda cuando siento que nadie entender\u00eda.", "completion": "depresi\u00f3n"}
+{"prompt": "Estoy cansado de ser fuerte todo el tiempo.", "completion": "depresi\u00f3n"}
+{"prompt": "Es dif\u00edcil explicar c\u00f3mo me siento cuando ni siquiera yo lo entiendo.", "completion": "depresi\u00f3n"}
+{"prompt": "Me siento roto y no s\u00e9 c\u00f3mo empezar a repararme.", "completion": "depresi\u00f3n"}
+{"prompt": "A veces me pregunto si alguna vez me recuperar\u00e9", "completion": "depresi\u00f3n"}
+{"prompt": "La depresi\u00f3n, siendo un trastorno mental, no s\u00f3lo involucra un constante estado de \u00e1nimo bajo.", "completion": "depresi\u00f3n"}
+{"prompt": "Este, al igual que una p\u00e9rdida de inter\u00e9s o placer por actividades com\u00fanmente agradables, suelen ser los s\u00edntomas m\u00e1s com\u00fanmente asociados con esta condici\u00f3n.", "completion": "depresi\u00f3n"}
+{"prompt": "A pesar de esto, la depresi\u00f3n involucra una alteraci\u00f3n a la qu\u00edmica cerebral que impide al paciente tener un funcionamiento ideal en su vida personal, laboral y social.", "completion": "depresi\u00f3n"}
+{"prompt": "La depresi\u00f3n es un trastorno m\u00e9dico que debe ser tratado como tal y con la seriedad correspondiente. Si experimentas una dificultad prolongada para disfrutar actividades que normalmente producir\u00edan placer o un estado persistente de bajo \u00e1nimo y energ\u00eda, aconsejamos encarecidamente buscar atenci\u00f3n m\u00e9dica profesional.", "completion": "depresi\u00f3n"}
+{"prompt": "La ilustraci\u00f3n muestra el flujo de serotonina entre dos neuronas. Este compuesto qu\u00edmico es un neurotransmisor asociado con la sensaci\u00f3n de placer y felicidad.", "completion": "depresi\u00f3n"}
+{"prompt": "Los inhibidores selectivos de la recaptaci\u00f3n de serotonina (ISRS), son uno de los medicamentos m\u00e1s com\u00fanmente recetados para tratar un trastorno depresivo. Su efectividad consiste en el aumento de los niveles de serotonina en el cerebro.", "completion": "depresi\u00f3n"}
+{"prompt": "Este f\u00e1rmaco bloquea la recaptaci\u00f3n de dicho neurotransmisor en las neuronas, permitiendo una mayor disponibilidad de esta mol\u00e9cula para mejorar la transmisi\u00f3n de mensajes entre las mismas.", "completion": "depresi\u00f3n"}
+{"prompt": "La depresi\u00f3n es muy peligrosa. Quiz\u00e1s te pasa por la acumulaci\u00f3n de pensamientos negativos, por mucho dolor, o por no encontrarle sentido a la vida. Tambi\u00e9n se da por soportar relaciones t\u00f3xicas por a\u00f1os, hasta que la mente se rinde de tanto esfuerzo, y se deprime.  \u00bfLa buena noticia? Tu mente tiene poder para descubrir que todo pasa. S\u00ed, no importa cu\u00e1nto te preocupes, igual todo pasa como debe pasar. Y que a pesar de tanta preocupaci\u00f3n, ansiedad o estr\u00e9s", "completion": "depresi\u00f3n"}
+{"prompt": "La depresi\u00f3n es un trastorno del \u00e1nimo que afecta a c\u00f3mo te sientes, piensas y manejas las actividades diarias. Si t\u00fa o alguien que conoces est\u00e1 experimentando s\u00edntomas de depresi\u00f3n es crucial buscar ayuda profesional.", "completion": "depresi\u00f3n"}
+{"prompt": "ay amigues, les pido una disculpa por mis tweets depresivos/negativos, han sido meses dif\u00edciles para mi familia y para mi, meses en los que he tenido miedo de volver a tener un episodio depresivo porque sinceramente siento que si recaigo, de este si ya no salgo, aparte la presi\u00f3n", "completion": "depresi\u00f3n"}
+{"prompt": "Es la coexistencia de un episodio depresivo con uno de man\u00eda/hipoman\u00eda, es decir, la persona presenta s\u00edntomas depresivos y euf\u00f3ricos al mismo tiempo, y es uno de los estados m\u00e1s peligrosos que pueden presentarse.", "completion": "depresi\u00f3n"}
+{"prompt": "Al depresivo no se le puede decir \"debes poner de t\u00fa parte\" \u00e9so es peor!. El depresivo necesita empat\u00eda, desahogarse, exceso de amor y atenciones sin embargo hay depresiones complejas en \u00e9stos casos es necesaria asistencia profesional xq los neurotransmisores se distorsionan.", "completion": "depresi\u00f3n"}
+{"prompt": "La depresi\u00f3n comienza con peque\u00f1os momentos de tristeza, que van haci\u00e9ndose cada vez mas largos. Ante la m\u00ednima tristeza hay que sacarla, hablar con alguien, no guardarla. Acumularlas es una bomba de tiempo. El final es anunciado.", "completion": "depresi\u00f3n"}
+{"prompt": "Desde que ten\u00eda 16 a\u00f1os he sentido una nube negra sobre m\u00ed. Desde entonces, tomo pastillas para la depresi\u00f3n", "completion": "depresi\u00f3n"}
+{"prompt": "Hay que experimentar la tristeza para conocer la felicidad, y me recuerdo a m\u00ed misma que no todos los d\u00edas van a ser buenos", "completion": "depresi\u00f3n"}
+{"prompt": "Realmente creo que todos tenemos mucha oscuridad en el alma... Creo que a lo largo de la vida uno va encontrando la manera de afrontarlo", "completion": "depresi\u00f3n"}
+{"prompt": "Cuando llegan las penas, no llegan como esp\u00edas solitarios, sino en batallones", "completion": "depresi\u00f3n"}
+{"prompt": "La depresi\u00f3n es la incapacidad de construir un futuro", "completion": "depresi\u00f3n"}
+{"prompt": "Hay momentos en los que el mundo de nuestra triste humanidad debe asumir el aspecto del Infierno", "completion": "depresi\u00f3n"}
+{"prompt": "Es un momento en que el esp\u00edritu de uno es tenue y triste... la vida es una vanidad y una carga", "completion": "depresi\u00f3n"}
+{"prompt": "No sabes lo que se siente al perder a alguien, porque solo lo sabr\u00e1s cuando ames a alguien m\u00e1s que a ti mismo", "completion": "depresi\u00f3n"}
+{"prompt": "Hay algunas cosas de m\u00ed mismo que no puedo explicar a nadie. Hay algunas cosas que no entiendo en absoluto", "completion": "depresi\u00f3n"}
+{"prompt": "Depresi\u00f3n, trastorno mental q se caracteriza por una profunda tristeza, decaimiento an\u00edmico, baja autoestima, p\u00e9rdida de inter\u00e9s por todo.", "completion": "depresi\u00f3n"}
+{"prompt": "Se\u00f1ales de depresi\u00f3n \u26a0\ufe0f", "completion": "depresi\u00f3n"}
+{"prompt": "pensar demasiado en momentos aleatorios", "completion": "depresi\u00f3n"}
+{"prompt": "pensamientos a altas horas de la noche", "completion": "depresi\u00f3n"}
+{"prompt": "crear v\u00ednculos traum\u00e1ticos todo el tiempo", "completion": "depresi\u00f3n"}
+{"prompt": "la ansiedad surge de la nada", "completion": "depresi\u00f3n"}
+{"prompt": "nunca puedo dormir bien por la noche", "completion": "depresi\u00f3n"}
+{"prompt": "siempre pienso demasiado", "completion": "depresi\u00f3n"}
+{"prompt": "permanezco en silencio durante horas", "completion": "depresi\u00f3n"}
+{"prompt": "p\u00e9rdida de inter\u00e9s en todo", "completion": "depresi\u00f3n"}
+{"prompt": "aislamiento", "completion": "depresi\u00f3n"}
+{"prompt": "Luchar contra la depresi\u00f3n a veces es muy dif\u00edcil, porque \u00faltimamente soy la persona m\u00e1s feliz de mi vida, pero tambi\u00e9n tengo d\u00edas en los que estoy tan triste que es como si una nube oscura estuviera sobre mi cabeza y no se despejara, y siempre aparecen de la nada, es muy frustrante.", "completion": "depresi\u00f3n"}
+{"prompt": "Yo no estoy enferma. Estoy rota. Pero estoy feliz de estar viva mientras pueda pintar.", "completion": "depresi\u00f3n"}
+{"prompt": "Esta cita refleja el dolor que ella soport\u00f3 a lo largo de su vida, incluyendo sus luchas con el sufrimiento f\u00edsico y emocional, a menudo relacionadas con la depresi\u00f3n.", "completion": "depresi\u00f3n"}
+{"prompt": "Yo s\u00e9 que cuando termino un dibujo, mi nivel de ansiedad disminuye.\"", "completion": "depresi\u00f3n"}
+{"prompt": "lidi\u00f3 con la ansiedad y la depresi\u00f3n, encontrando consuelo a trav\u00e9s de su arte, lo cual le ayud\u00f3 a manejar su salud mental.", "completion": "depresi\u00f3n"}
+{"prompt": "Vincent van Gogh: \"Yo pongo mi coraz\u00f3n y mi alma en mi trabajo, y he perdido la cordura en el proceso", "completion": "depresi\u00f3n"}
+{"prompt": "La depresi\u00f3n, por el contrario, es prolongada, afecta todas las \u00e1reas de la vida y se caracteriza por la baja autoestima, aislamiento emocional y falta de sentido. No tiene la funci\u00f3n adaptativa de la tristeza, sino que es destructiva.", "completion": "depresi\u00f3n"}
+{"prompt": "Las personas que atraviesan una depresi\u00f3n suelen sentirse solas y pueden pensar que nadie las comprende. Este estado puede llevar a sentimientos intensos de culpa y auto denigraci\u00f3n, as\u00ed como a la incapacidad para disfrutar de las actividades cotidianas.", "completion": "depresi\u00f3n"}
+{"prompt": "La depresi\u00f3n no es un signo de debilidad, sino una condici\u00f3n m\u00e9dica que requiere atenci\u00f3n profesional", "completion": "depresi\u00f3n"}
+{"prompt": "Es fundamental buscar ayuda si se sospecha de depresi\u00f3n. Hablar con un adulto, un m\u00e9dico o un profesional de salud mental puede ser un buen primer paso. Tambi\u00e9n se recomienda mantener el contacto con amigos y familiares, realizar actividades que sol\u00edan gustar y evitar el aislamiento social. Si hay pensamientos suicidas, es crucial obtener ayuda inmediata", "completion": "depresi\u00f3n"}
+{"prompt": "La depresi\u00f3n puede surgir tras eventos dolorosos como la p\u00e9rdida de un ser querido o situaciones estresantes. Sin embargo, tambi\u00e9n puede aparecer sin un desencadenante claro. Es importante reconocer que la depresi\u00f3n es tratable y que muchas personas pueden recuperarse con el apoyo adecuado", "completion": "depresi\u00f3n"}
+{"prompt": "\"La depresi\u00f3n es la incapacidad de construir un futuro.\" - Rollo May Esta frase destaca c\u00f3mo la depresi\u00f3n puede afectar la capacidad de una persona para visualizar y planificar su vida.", "completion": "depresi\u00f3n"}
+{"prompt": "\"Un alma triste puede matar m\u00e1s r\u00e1pidamente que una bacteria\". - John Steinbeck Steinbeck enfatiza el impacto devastador que puede tener la tristeza en la vida de una persona.", "completion": "depresi\u00f3n"}
+{"prompt": "\"Cuando est\u00e1s feliz, disfrutas la m\u00fasica, pero cuando est\u00e1s triste, entiendes la letra.\" Esta reflexi\u00f3n muestra c\u00f3mo las emociones pueden influir en nuestra percepci\u00f3n del arte y la m\u00fasica.", "completion": "depresi\u00f3n"}
+{"prompt": "\"La mayor gloria de la vida no reside en no caernos nunca, sino en levantarnos cada vez que caigamos.\" - Nelson Mandela Una poderosa afirmaci\u00f3n sobre la resiliencia frente a las adversidades, incluyendo la depresi\u00f3n.", "completion": "depresi\u00f3n"}
+{"prompt": "\"Ning\u00fan lugar en la vida es m\u00e1s triste que una cama vac\u00eda.\" - Gabriel Garc\u00eda M\u00e1rquez Esta frase refleja la soledad y el vac\u00edo que puede acompa\u00f1ar a la depresi\u00f3n.", "completion": "depresi\u00f3n"}
+{"prompt": "\"En gran parte, t\u00fa construyes tu depresi\u00f3n. No te fue dada. Por tanto, t\u00fa la puedes deconstruir.\" - Albert Ellis Ellis ofrece una perspectiva sobre la responsabilidad personal en el manejo de la salud mental.", "completion": "depresi\u00f3n"}
+{"prompt": "La tristeza es un don del cielo, y el pesimismo una enfermedad del esp\u00edritu.\" - Amado Nervo Esta frase sugiere que mientras la tristeza puede ser natural, el pesimismo puede ser da\u00f1ino.", "completion": "depresi\u00f3n"}
+{"prompt": "\"Si nunca esperas nada de nadie, nunca te decepcionar\u00e1.\" Este pensamiento aborda c\u00f3mo las expectativas pueden contribuir a sentimientos de tristeza y depresi\u00f3n.", "completion": "depresi\u00f3n"}
+{"prompt": "\"Mucho de lo que hoy pasa como depresi\u00f3n estos d\u00edas no es m\u00e1s que un cuerpo diciendo que necesita trabajo", "completion": "depresi\u00f3n"}
+{"prompt": "\"Soy un canalla, soy un bicho raro. \u00bfQu\u00e9 diablos estoy haciendo aqu\u00ed? No pertenezco aqu\u00ed\". Esta l\u00ednea expresa la profunda sensaci\u00f3n de no pertenencia y la lucha interna que acompa\u00f1a a la depresi\u00f3n.", "completion": "depresi\u00f3n"}
+{"prompt": "\"No hay que mirar atr\u00e1s, nada se puede cambiar.\" Refleja el deseo de avanzar a pesar del dolor y la p\u00e9rdida.", "completion": "depresi\u00f3n"}
+{"prompt": "La depresi\u00f3n es silenciosa, tambi\u00e9n duerme, se ba\u00f1a, se maquilla, desayuna, camina, estudia, trabaja, sonr\u00ede y casi siempre se ve feliz. S\u00e9 amable, abraza, acompa\u00f1a y valida las emociones de los otros, lo que ellos sienten t\u00fa no lo puedes ver.", "completion": "depresi\u00f3n"}
+{"prompt": "La depresi\u00f3n no tiene edad.", "completion": "depresi\u00f3n"}
+{"prompt": "Con depresi\u00f3n pod\u00e9s salir a bailar, pod\u00e9s re\u00edrte, pod\u00e9s joder, pod\u00e9s ser exitoso, pod\u00e9s ser el mejor en lo que haces. Pero al final del d\u00eda segu\u00eds sumergido en una tristeza infinita que te paraliza y arruina cada d\u00eda m\u00e1s. La depresi\u00f3n no es un chiste, dejen de subestimarla.", "completion": "depresi\u00f3n"}
+{"prompt": "La felicidad se considera m\u00e1s que solo una emoci\u00f3n; algunos autores la ven como un sentimiento o estado de \u00e1nimo relacionado con el bienestar y la satisfacci\u00f3n personal. Aunque puede estar vinculada a momentos de placer o logros, tambi\u00e9n se interpreta como un fen\u00f3meno afectivo m\u00e1s amplio, influenciado por diversos factores internos y externos", "completion": "no_depresi\u00f3n"}
+{"prompt": "En t\u00e9rminos psicol\u00f3gicos, la felicidad se asocia a un estado emocional positivo que incluye sensaciones de plenitud, bienestar y satisfacci\u00f3n con la vida. Es m\u00e1s que un simple instante de alegr\u00eda, involucrando un equilibrio emocional a lo largo del tiempo", "completion": "no_depresi\u00f3n"}
+{"prompt": "Las\u00a0emociones positivas\u00a0son fundamentales para el bienestar humano y tienen un impacto significativo en nuestra salud mental y f\u00edsica. Estas emociones, que incluyen la alegr\u00eda, el amor, la gratitud y la satisfacci\u00f3n, se asocian con experiencias agradables y contribuyen a la creaci\u00f3n de un estado emocional saludable.", "completion": "no_depresi\u00f3n"}
+{"prompt": "Las emociones positivas se caracterizan por una valencia de placer o bienestar y pueden clasificarse en varias categor\u00edas.", "completion": "no_depresi\u00f3n"}
+{"prompt": "Alegr\u00eda : oleada ante situaciones placenteras.", "completion": "no_depresi\u00f3n"}
+{"prompt": "Inter\u00e9s : se manifiesta cuando nos sentimos curiosos o atra\u00eddos por algo nuevo.", "completion": "no_depresi\u00f3n"}
+{"prompt": "Amor : abarca el afecto hacia los dem\u00e1s.", "completion": "no_depresi\u00f3n"}
+{"prompt": "Satisfacci\u00f3n : el reconocimiento de logros o momentos agradables.", "completion": "no_depresi\u00f3n"}
+{"prompt": "Otras emociones positivas incluyen la\u00a0gratitud\u00a0, el\u00a0optimismo\u00a0y la\u00a0serenidad\u00a0. Estas emociones no solo son ef\u00edmeras, sino que tambi\u00e9n juegan un papel crucial en la resiliencia y el desarrollo personal, promoviendo un ciclo de experiencias positivas que pueden mejorar nuestras relaciones y aumentar nuestra satisfacci\u00f3n con la vida.", "completion": "no_depresi\u00f3n"}
+{"prompt": "El trastorno del lenguaje se caracteriza por dificultades persistentes en la adquisici\u00f3n y uso del lenguaje en sus diferentes modalidades (hablado, escrito, lengua de signos).", "completion": "no_depresi\u00f3n"}
+{"prompt": "El trastorno de la fluidez de inicio en la infancia (tartamudeo), codificado como se caracteriza por alteraciones en la fluidez y organizaci\u00f3n temporal del habla que no son adecuadas para la edad del individuo y sus habilidades ling\u00fc\u00edsticas. Estas dificultades persisten a lo largo del tiempo y se manifiestan a trav\u00e9s de uno o m\u00e1s de los siguientes factores:", "completion": "no_depresi\u00f3n"}
+{"prompt": "1. Trastornos del Neurodesarrollo Estos trastornos se manifiestan en el desarrollo temprano y afectan funciones como la comunicaci\u00f3n y el comportamiento. Los ejemplos incluyen el\u00a0Trastorno del Espectro Autista\u00a0y el\u00a0Trastorno por D\u00e9ficit de Atenci\u00f3n e Hiperactividad (TDAH)\u00a0.", "completion": "no_depresi\u00f3n"}
+{"prompt": "vomitar por un ataque de ansiedad es culerisimo", "completion": "no_depresi\u00f3n"}
+{"prompt": "Espectro de la Esquizofrenia y Otros Trastornos Psic\u00f3ticos Incluye trastornos caracterizados por alteraciones en la percepci\u00f3n de la realidad, como la\u00a0esquizofrenia\u00a0, que puede presentar s\u00edntomas como alucinaciones y delirios.", "completion": "no_depresi\u00f3n"}
+{"prompt": "Trastorno Bipolar y Trastornos Relacionados Este grupo abarca trastornos que implican cambios extremos en el estado de \u00e1nimo, desde episodios man\u00edacos hasta depresivos. El\u00a0Trastorno Bipolar I\u00a0y el\u00a0Trastorno Bipolar II\u00a0son ejemplos destacados.", "completion": "no_depresi\u00f3n"}
+{"prompt": "Trastornos de ansiedad Este grupo incluye varios trastornos que provocan excesivo o miedo, como el\u00a0trastorno de ansiedad generalizada\u00a0, las\u00a0fobias espec\u00edficas\u00a0y el\u00a0trastorno de p\u00e1nico\u00a0.", "completion": "no_depresi\u00f3n"}
+{"prompt": "Trastorno Obsesivo-Compulsivo (TOC) y Trastornos Relacionados,El TOC se caracteriza por pensamientos obsesivos recurrentes y comportamientos compulsivos. Este trastorno ha sido separado de los trastornos de ansiedad en el DSM-5.", "completion": "no_depresi\u00f3n"}
+{"prompt": "Trauma y Otros Trastornos Relacionados con Factores de Estr\u00e9s Incluye trastornos que surgen tras experiencias traum\u00e1ticas, como el\u00a0trastorno de estr\u00e9s postraum\u00e1tico (TEPT)\u00a0.", "completion": "no_depresi\u00f3n"}
+{"prompt": "Trastornos disociativos Estos trastornos implican una desconexi\u00f3n entre pensamientos, identidad, conciencia y memoria. Un ejemplo es el\u00a0trastorno disociativo de la identidad.", "completion": "no_depresi\u00f3n"}
+{"prompt": "Trastornos Alimentarios Este grupo incluye condiciones relacionadas con comportamientos alimentarios extremos, como la\u00a0anorexia nerviosa, la\u00a0bulimia nerviosa\u00a0y el\u00a0trastorno por atrac\u00f3n\u00a0.", "completion": "no_depresi\u00f3n"}
+{"prompt": ". Trastornos por Uso de Sustancias Estos trastornos implican un patr\u00f3n problem\u00e1tico de consumo de sustancias, que puede llevar a dependencia o abuso. Los ejemplos incluyen el\u00a0trastorno por uso de alcohol\u00a0y el\u00a0trastorno por uso de opioides.", "completion": "no_depresi\u00f3n"}
+{"prompt": "Trastorno de Ansiedad Generalizada (TAG)Se caracteriza por una preocupaci\u00f3n excesiva y persistente sobre diversas actividades o eventos, que es dif\u00edcil de controlar. Los s\u00edntomas deben estar presentes la mayor\u00eda de los d\u00edas durante al menos seis meses e incluyen inquietud, fatiga, dificultad para concentrarse y tensi\u00f3n muscular.", "completion": "no_depresi\u00f3n"}
+{"prompt": "Trastorno de p\u00e1nico Est\u00e9 trastorno implica episodios recurrentes de ataques de p\u00e1nico, que son episodios repentinos de miedo intenso que alcanzan su punto m\u00e1ximo en minutos. Los s\u00edntomas pueden incluir palpitaciones, sudoraci\u00f3n, temblores y sensaci\u00f3n de ahogo. La preocupaci\u00f3n por tener m\u00e1s ataques puede llevar a evitar situaciones donde ocurrieron.", "completion": "no_depresi\u00f3n"}
+{"prompt": "Agorafobia Se caracteriza por un miedo intenso a situaciones donde escapar podr\u00eda ser dif\u00edcil o no se podr\u00eda obtener ayuda en caso de un ataque de p\u00e1nico. Esto puede incluir estar en lugares abiertos, transportes p\u00fablicos o multitudes. La persona a menudo evita estas situaciones.", "completion": "no_depresi\u00f3n"}
+{"prompt": "Fobia espec\u00edfica Consiste en un miedo intenso y desproporcionado hacia un objeto o situaci\u00f3n espec\u00edfica (como animales, alturas o inyecciones). Este miedo provoca una respuesta de ansiedad significativa y puede llevar a la evitaci\u00f3n del objeto o situaci\u00f3n temida.", "completion": "no_depresi\u00f3n"}
+{"prompt": "Trastorno de Ansiedad Social (Fobia Social) Se caracteriza por un miedo intenso a situaciones sociales en las que la persona puede ser evaluada o juzgada por otros. Esto puede incluir hablar en p\u00fablico o interactuar con desconocidos. La ansiedad puede ser tan intensa que interfiere con la vida diaria.", "completion": "no_depresi\u00f3n"}
+{"prompt": "Trastorno de Ansiedad por Separaci\u00f3n Com\u00fan en ni\u00f1os, este trastorno implica un miedo excesivo a separarse de figuras cercanas, como padres. Los s\u00edntomas pueden incluir angustia extrema al anticipar la separaci\u00f3n y pesadillas relacionadas con la separaci\u00f3n.", "completion": "no_depresi\u00f3n"}
+{"prompt": "Mutismo selectivo Este trastorno se presenta principalmente en ni\u00f1os y se caracteriza por la incapacidad persistente para hablar en ciertas situaciones sociales, a pesar de que pueden comunicarse normalmente en otros entornos (como en casa)..", "completion": "no_depresi\u00f3n"}
+{"prompt": "Trastorno de Ansiedad Inducido por Sustancias Este trastorno se refiere a s\u00edntomas de ansiedad que son provocados por el uso o la abstinencia de sustancias psicoactivas, como drogas o medicamentos.", "completion": "no_depresi\u00f3n"}
+{"prompt": "Trastorno de ansiedad debido a otra afecci\u00f3n m\u00e9dica La ansiedad puede ser consecuencia directa de una afecci\u00f3n m\u00e9dica subyacente, como problemas card\u00edacos o respiratorios.", "completion": "no_depresi\u00f3n"}
+{"prompt": "Trastornos de Ansiedad No Especificados Este t\u00e9rmino se utiliza para describir s\u00edntomas ansiosos que no cumplen con los criterios espec\u00edficos para los trastornos mencionados anteriormente pero que a\u00fan causan malestar significativo o deterioro funcional.", "completion": "no_depresi\u00f3n"}
+{"prompt": "Trastorno Bipolar I\nDefinici\u00f3n: Se caracteriza por la presencia de al menos un episodio man\u00edaco, que puede ser precedido o seguido por episodios hipoman\u00edacos o depresivos mayores. La man\u00eda implica un estado de \u00e1nimo anormalmente elevado o irritable y puede causar un deterioro significativo en el funcionamiento social o laboral.\nS\u00edntomas: Pueden incluir grandiosidad, disminuci\u00f3n de la necesidad de sue\u00f1o, mayor hablabilidad, fuga de ideas y comportamiento impulsivo.", "completion": "no_depresi\u00f3n"}
+{"prompt": "Trastorno Bipolar II\nDefinici\u00f3n: Se define por la presencia de al menos un episodio hipoman\u00edaco y al menos un episodio depresivo mayor, sin episodios man\u00edacos completos. La hipoman\u00eda es similar a la man\u00eda, pero menos severa y no causa deterioro significativo en el funcionamiento.\nS\u00edntomas: Incluyen cambios en el estado de \u00e1nimo que pueden ser menos intensos que en el trastorno bipolar I, pero que a\u00fan afectan la calidad de vida.", "completion": "no_depresi\u00f3n"}
+{"prompt": "Trastorno Ciclot\u00edmico\nDefinici\u00f3n: Implica per\u00edodos de s\u00edntomas hipoman\u00edacos y per\u00edodos de s\u00edntomas depresivos que no cumplen con los criterios para un episodio depresivo mayor. Estos s\u00edntomas deben estar presentes durante al menos dos a\u00f1os (un a\u00f1o en ni\u00f1os y adolescentes).\nS\u00edntomas: Los s\u00edntomas son cr\u00f3nicos y pueden fluctuar entre hipoman\u00eda y depresi\u00f3n leve, pero no son tan severos como para ser considerados episodios completos.", "completion": "no_depresi\u00f3n"}
+{"prompt": "Trastorno Bipolar Inducido por Sustancias/Medicamentos\nDefinici\u00f3n: Se refiere a episodios man\u00edacos o hipoman\u00edacos que se desarrollan durante o poco despu\u00e9s del uso de sustancias (como drogas recreativas o medicamentos) o durante la abstinencia.\nS\u00edntomas: Los s\u00edntomas deben ser similares a los del trastorno bipolar, pero deben estar claramente relacionados con el uso de sustancias.", "completion": "no_depresi\u00f3n"}
+{"prompt": "Otros Trastornos Bipolares Espec\u00edficos\nEl DSM-5 tambi\u00e9n permite la inclusi\u00f3n de otros trastornos bipolares que no encajan perfectamente en las categor\u00edas anteriores, como aquellos que presentan caracter\u00edsticas mixtas o episodios at\u00edpicos.", "completion": "no_depresi\u00f3n"}
+{"prompt": "Esquizofrenia", "completion": "no_depresi\u00f3n"}
+{"prompt": "Definici\u00f3n: Se caracteriza por la presencia de s\u00edntomas psic\u00f3ticos significativos, que incluyen delirios, alucinaciones, habla desorganizada y s\u00edntomas negativos (como la disminuci\u00f3n de la expresi\u00f3n emocional y la falta de motivaci\u00f3n).", "completion": "no_depresi\u00f3n"}
+{"prompt": "Criterios Diagn\u00f3sticos: Para el diagn\u00f3stico, se requieren al menos dos s\u00edntomas del Criterio A, uno de los cuales debe ser delirios, alucinaciones o habla desorganizada. Los s\u00edntomas deben estar presentes durante al menos seis meses.", "completion": "no_depresi\u00f3n"}
+{"prompt": "Trastorno Esquizofreniforme", "completion": "no_depresi\u00f3n"}
+{"prompt": "Definici\u00f3n: Presenta s\u00edntomas similares a los de la esquizofrenia pero con una duraci\u00f3n de al menos un mes y menos de seis meses.", "completion": "no_depresi\u00f3n"}
+{"prompt": "Caracter\u00edsticas: Puede incluir episodios breves de s\u00edntomas psic\u00f3ticos que no cumplen con los criterios para esquizofrenia.", "completion": "no_depresi\u00f3n"}
+{"prompt": "Trastorno Psic\u00f3tico Breve", "completion": "no_depresi\u00f3n"}
+{"prompt": "Definici\u00f3n: Se caracteriza por la aparici\u00f3n repentina de s\u00edntomas psic\u00f3ticos que duran m\u00e1s de un d\u00eda pero menos de un mes, con eventual retorno completo al nivel previo de funcionamiento.", "completion": "no_depresi\u00f3n"}
+{"prompt": "Causas: Puede ser desencadenado por un evento estresante o traum\u00e1tico.", "completion": "no_depresi\u00f3n"}
+{"prompt": "Trastorno Delirante Persistente", "completion": "no_depresi\u00f3n"}
+{"prompt": "Definici\u00f3n: Implica la presencia de uno o m\u00e1s delirios persistentes que duran un mes o m\u00e1s.", "completion": "no_depresi\u00f3n"}
+{"prompt": "Caracter\u00edsticas: Los delirios pueden ser no bizarros (realistas) y no hay otros s\u00edntomas psic\u00f3ticos significativos.", "completion": "no_depresi\u00f3n"}
+{"prompt": "Trastorno Esquizoafectivo", "completion": "no_depresi\u00f3n"}
+{"prompt": "Definici\u00f3n: Combina caracter\u00edsticas de la esquizofrenia y trastornos del estado de \u00e1nimo (como depresi\u00f3n o man\u00eda).", "completion": "no_depresi\u00f3n"}
+{"prompt": "Criterios Diagn\u00f3sticos: Se requiere que haya episodios del estado de \u00e1nimo concurrentes con los s\u00edntomas psic\u00f3ticos, adem\u00e1s de per\u00edodos en los que los s\u00edntomas psic\u00f3ticos ocurren sin el estado de \u00e1nimo.", "completion": "no_depresi\u00f3n"}
+{"prompt": "Trastorno Psic\u00f3tico Inducido por Sustancias", "completion": "no_depresi\u00f3n"}
+{"prompt": "Definici\u00f3n: Los s\u00edntomas psic\u00f3ticos son el resultado del uso o abstinencia de sustancias (como drogas recreativas o medicamentos).", "completion": "no_depresi\u00f3n"}
+{"prompt": "Caracter\u00edsticas: Los s\u00edntomas deben ser claramente atribuibles a la exposici\u00f3n a una sustancia.", "completion": "no_depresi\u00f3n"}
+{"prompt": "Trastorno Psic\u00f3tico Debido a Otra Afecci\u00f3n M\u00e9dica", "completion": "no_depresi\u00f3n"}
+{"prompt": "Definici\u00f3n: Los s\u00edntomas psic\u00f3ticos son consecuencia directa de una condici\u00f3n m\u00e9dica general (por ejemplo, enfermedades neurol\u00f3gicas).", "completion": "no_depresi\u00f3n"}
+{"prompt": "Criterios Diagn\u00f3sticos: Se requiere evidencia clara de que los s\u00edntomas son el resultado de una afecci\u00f3n m\u00e9dica.", "completion": "no_depresi\u00f3n"}
+{"prompt": "Cataton\u00eda", "completion": "no_depresi\u00f3n"}
+{"prompt": "Definici\u00f3n: Aunque no es un trastorno exclusivo del espectro esquizofr\u00e9nico, puede presentarse en el contexto de varios trastornos mentales, incluidos los trastornos del estado de \u00e1nimo y los trastornos psic\u00f3ticos.", "completion": "no_depresi\u00f3n"}
+{"prompt": "S\u00edntomas: Incluye comportamientos como inmovilidad, mutismo, negativismo y posturas inusuales.", "completion": "no_depresi\u00f3n"}
+{"prompt": "S\u00edndrome de Psicosis Atenuada", "completion": "no_depresi\u00f3n"}
+{"prompt": "Definici\u00f3n: Incluido como una condici\u00f3n para estudio en el DSM-5, se refiere a individuos con s\u00edntomas psic\u00f3ticos que son menos severos e incapacitantes que aquellos observados en la esquizofrenia.", "completion": "no_depresi\u00f3n"}
+{"prompt": "Caracter\u00edsticas: Este s\u00edndrome se considera como un indicador potencial para el desarrollo futuro de un trastorno psic\u00f3tico completo.", "completion": "no_depresi\u00f3n"}
+{"prompt": "Sonrisa constante: Una de las manifestaciones m\u00e1s evidentes de la alegr\u00eda es una sonrisa genuina, conocida como la sonrisa Duchenne, que involucra no solo los labios, sino tambi\u00e9n los ojos. Esta sonrisa es contagiosa y puede mejorar la salud f\u00edsica al reducir el estr\u00e9s y fortalecer el sistema inmunol\u00f3gico.", "completion": "no_depresi\u00f3n"}
+{"prompt": "Energ\u00eda y vitalidad: La alegr\u00eda a menudo se acompa\u00f1a de una sensaci\u00f3n de energ\u00eda renovada. Las personas alegres suelen sentirse m\u00e1s activas y motivadas para realizar actividades diarias, lo que puede aumentar la productividad y la creatividad.", "completion": "no_depresi\u00f3n"}
+{"prompt": "Coraz\u00f3n ligero: La alegr\u00eda puede generar una sensaci\u00f3n de ligereza en el pecho, donde las preocupaciones y el estr\u00e9s parecen desvanecerse. Esto contribuye a un estado emocional positivo y a una mayor capacidad para disfrutar del presente.", "completion": "no_depresi\u00f3n"}
+{"prompt": "Aumento de la frecuencia card\u00edaca: Cuando estamos alegres, es com\u00fan experimentar un aumento en la frecuencia card\u00edaca y en la presi\u00f3n sangu\u00ednea, lo que activa el sistema circulatorio. Esto tambi\u00e9n est\u00e1 relacionado con la liberaci\u00f3n de neurotransmisores como la dopamina y las endorfinas, que mejoran el estado de \u00e1nimo y reducen la percepci\u00f3n del dolor.", "completion": "no_depresi\u00f3n"}
+{"prompt": "Optimismo: La alegr\u00eda fomenta una visi\u00f3n positiva ante la vida, lo que ayuda a enfrentar desaf\u00edos con mayor resiliencia. Las personas alegres tienden a ser m\u00e1s optimistas y a tener mejor autoestima.", "completion": "no_depresi\u00f3n"}
+{"prompt": "Interacci\u00f3n social: Estar alegre facilita las interacciones sociales, promoviendo v\u00ednculos m\u00e1s fuertes con los dem\u00e1s. La alegr\u00eda tiende a hacer que las personas sean m\u00e1s generosas y dispuestas a ayudar.", "completion": "no_depresi\u00f3n"}
+{"prompt": "Expresi\u00f3n vocal elevada: La alegr\u00eda tambi\u00e9n se manifiesta en el tono de voz, que suele ser m\u00e1s elevado y animado. Esto puede incluir risas o sonidos de felicidad que acompa\u00f1an momentos alegres.", "completion": "no_depresi\u00f3n"}
+{"prompt": "Aumento de la temperatura corporal y sensaci\u00f3n de calor: en el enojo Es t\u00edpico sentir una sensaci\u00f3n de calor en el cuerpo durante un arranque de ira.", "completion": "no_depresi\u00f3n"}
+{"prompt": "Aceleraci\u00f3n del ritmo card\u00edaco y palpitaciones: El enojo puede hacer que el coraz\u00f3n lata m\u00e1s r\u00e1pido, lo que puede generar una sensaci\u00f3n de opresi\u00f3n en el pecho.", "completion": "no_depresi\u00f3n"}
+{"prompt": "Tensi\u00f3n muscular y temblores: en el enono Se puede experimentar tensi\u00f3n en el cuerpo, temblores o incluso hormigueo.", "completion": "no_depresi\u00f3n"}
+{"prompt": "Sudoraci\u00f3n: A menudo, una persona enojada empieza a sudar, especialmente si la ira es intensa.", "completion": "no_depresi\u00f3n"}
+{"prompt": "Frenes\u00ed de ideas y confusi\u00f3n mental: El enojo puede causar pensamientos acelerados y desordenados, lo que puede dificultar la toma de decisiones racionales.", "completion": "no_depresi\u00f3n"}
+{"prompt": "\"La felicidad no es algo hecho. Proviene de tus propias acciones.\" - Dalai Lama", "completion": "no_depresi\u00f3n"}
+{"prompt": "\"El secreto de la felicidad no es hacer siempre lo que se quiere, sino querer siempre lo que se hace.\" - Le\u00f3n Tolst\u00f3i", "completion": "no_depresi\u00f3n"}
+{"prompt": "\"La alegr\u00eda no est\u00e1 en las cosas; est\u00e1 en nosotros.\" - Richard Wagner", "completion": "no_depresi\u00f3n"}
+{"prompt": "\"La felicidad se puede encontrar incluso en los tiempos m\u00e1s oscuros, solo si uno recuerda encender la luz.\" - J.K. Rowling (Albus Dumbledore)", "completion": "no_depresi\u00f3n"}
+{"prompt": "\"La \u00fanica manera de hacer un gran trabajo es amar lo que haces.\" - Steve Jobs", "completion": "no_depresi\u00f3n"}
+{"prompt": "\"La felicidad es interior, no exterior; por lo tanto, no depende de lo que tenemos, sino de lo que somos.\" - Henry Van Dyke", "completion": "no_depresi\u00f3n"}
+{"prompt": "\"El \u00e9xito no es la clave de la felicidad. La felicidad es la clave del \u00e9xito.\" - Albert Schweitzer", "completion": "no_depresi\u00f3n"}
+{"prompt": "\"No hay deber que descuidemos tanto como el deber de ser felices.\" - Robert Louis Stevenson", "completion": "no_depresi\u00f3n"}
+{"prompt": "\"La felicidad no es algo que pospones para el futuro; es algo que dise\u00f1as para el presente.\" - Jim Rohn", "completion": "no_depresi\u00f3n"}
+{"prompt": "\"El mejor remedio para los que tienen miedo, se sienten solos o infelices es salir al exterior, a alg\u00fan lugar donde puedan estar en silencio, solos con el cielo, la naturaleza y Dios.\" - Ana Frank", "completion": "no_depresi\u00f3n"}
+{"prompt": "El arte no es un espejo para reflejar el mundo, sino un martillo para darle forma.\" - Bertolt Brecht", "completion": "no_depresi\u00f3n"}
+{"prompt": "\"Estoy tan enfadado que no voy a pensar m\u00e1s en eso.\" - Frida Kahlo", "completion": "no_depresi\u00f3n"}
+{"prompt": "\"El arte es el \u00fanico espacio donde puedo transformar mi enojo en belleza.\" - Yoko Ono", "completion": "no_depresi\u00f3n"}
+{"prompt": "\"El enojo es un veneno que uno toma esperando que la otra persona muera.\" - Audre Lorde", "completion": "no_depresi\u00f3n"}
+{"prompt": "\"La gente siempre espera que seas feliz todo el tiempo, pero la tristeza y el enojo son emociones igual de v\u00e1lidas.\" - Rihanna", "completion": "no_depresi\u00f3n"}
+{"prompt": "\"Siempre he cre\u00eddo que si te enojas por algo, debes usar esa energ\u00eda para hacer algo al respecto.\"", "completion": "no_depresi\u00f3n"}
+{"prompt": "Aumento de la frecuencia card\u00edaca con latidos r\u00e1pidos y fuertes, lo que puede generar una sensaci\u00f3n de descontrol sobre el cuerpo", "completion": "no_depresi\u00f3n"}
+{"prompt": "Respiraci\u00f3n r\u00e1pida o sensaci\u00f3n de falta de aire, lo que puede llevar a hiperventilaci\u00f3n y aumentar la sensaci\u00f3n de p\u00e1nico", "completion": "no_depresi\u00f3n"}
+{"prompt": "Tensi\u00f3n muscular con posibles temblores, reflejando la reacci\u00f3n del cuerpo al estr\u00e9s y la tensi\u00f3n acumulada", "completion": "no_depresi\u00f3n"}
+{"prompt": "Sudoraci\u00f3n excesiva en manos o rostro, como respuesta f\u00edsica al nerviosismo y la ansiedad", "completion": "no_depresi\u00f3n"}
+{"prompt": "Sensaci\u00f3n de mareo o v\u00e9rtigo, que puede surgir por la hiperventilaci\u00f3n o el aumento de la tensi\u00f3n", "completion": "no_depresi\u00f3n"}
+{"prompt": "Inquietud o dificultad para permanecer quieto, manifest\u00e1ndose en un constante deseo de moverse o cambiar de posici\u00f3n", "completion": "no_depresi\u00f3n"}
+{"prompt": "Sensaci\u00f3n de peligro inminente o miedo intenso, que a menudo se acompa\u00f1a de pensamientos catastr\u00f3ficos sobre lo que podr\u00eda suceder", "completion": "no_depresi\u00f3n"}
+{"prompt": "Problemas para concentrarse debido a pensamientos acelerados, que pueden dificultar el enfoque en tareas diarias y generar frustraci\u00f3n", "completion": "no_depresi\u00f3n"}
+{"prompt": "Superaci\u00f3n personal.", "completion": "no_depresi\u00f3n"}
+{"prompt": "Hoy voy a empezar, hoy es el primer d\u00eda del resto de mi vida.", "completion": "no_depresi\u00f3n"}
+{"prompt": "Celebraci\u00f3n de la vida.", "completion": "no_depresi\u00f3n"}
+{"prompt": "Vamos a bailar, esta vida es una fiesta.", "completion": "no_depresi\u00f3n"}
+{"prompt": "Optimismo y esperanza.", "completion": "no_depresi\u00f3n"}
+{"prompt": "Despu\u00e9s de la tormenta siempre sale el sol, nada es para siempre.", "completion": "no_depresi\u00f3n"}
+{"prompt": "Amor propio.", "completion": "no_depresi\u00f3n"}
+{"prompt": "Soy m\u00e1s fuerte de lo que cre\u00eda, hoy me amo tal como soy.", "completion": "no_depresi\u00f3n"}
+{"prompt": "Renacimiento.", "completion": "no_depresi\u00f3n"}
+{"prompt": "Hoy renazco de mis cenizas, nada me puede detener.", "completion": "no_depresi\u00f3n"}
+{"prompt": "Gratitud.", "completion": "no_depresi\u00f3n"}
+{"prompt": "Gracias a la vida que me ha dado tanto, me ha dado la risa y me ha dado el llanto.", "completion": "no_depresi\u00f3n"}
+{"prompt": "Libertad.", "completion": "no_depresi\u00f3n"}
+{"prompt": "Voy a volar sin miedo, libre como el viento.", "completion": "no_depresi\u00f3n"}
+{"prompt": "Esperanza en tiempos dif\u00edciles.", "completion": "no_depresi\u00f3n"}
+{"prompt": "No importa cu\u00e1n oscuro est\u00e9, siempre hay una luz al final del t\u00fanel.", "completion": "no_depresi\u00f3n"}
+{"prompt": "Alegr\u00eda de vivir.", "completion": "no_depresi\u00f3n"}
+{"prompt": "Hoy me siento vivo, nada me puede parar.", "completion": "no_depresi\u00f3n"}
+{"prompt": "Disfrutar el momento.", "completion": "no_depresi\u00f3n"}
+{"prompt": "Carpe diem, vive el presente, este es tu momento.", "completion": "no_depresi\u00f3n"}
+{"prompt": "Confianza en el futuro.", "completion": "no_depresi\u00f3n"}
+{"prompt": "El ma\u00f1ana ser\u00e1 mejor, solo hay que creer.", "completion": "no_depresi\u00f3n"}
+{"prompt": "Amistad y apoyo.", "completion": "no_depresi\u00f3n"}
+{"prompt": "Siempre estar\u00e9 aqu\u00ed para ti, juntos somos invencibles.", "completion": "no_depresi\u00f3n"}
+{"prompt": "Superar obst\u00e1culos.", "completion": "no_depresi\u00f3n"}
+{"prompt": "No hay monta\u00f1a tan alta que no pueda escalar, no hay r\u00edo tan profundo que no pueda cruzar.", "completion": "no_depresi\u00f3n"}
+{"prompt": "Fe en uno mismo.", "completion": "no_depresi\u00f3n"}
+{"prompt": "Creo en m\u00ed, s\u00e9 que puedo lograr todo lo que me proponga.", "completion": "no_depresi\u00f3n"}
+{"prompt": "Alegr\u00eda por los logros.", "completion": "no_depresi\u00f3n"}
+{"prompt": "He llegado tan lejos, no me detendr\u00e9 ahora.", "completion": "no_depresi\u00f3n"}
+{"prompt": "Energ\u00eda positiva.", "completion": "no_depresi\u00f3n"}
+{"prompt": "Llena tu vida de colores, que todo es mejor con una sonrisa.", "completion": "no_depresi\u00f3n"}
+{"prompt": "Reinvenci\u00f3n.", "completion": "no_depresi\u00f3n"}
+{"prompt": "Cada d\u00eda es una nueva oportunidad para ser quien quiero ser.", "completion": "no_depresi\u00f3n"}
+{"prompt": "Uni\u00f3n y hermandad.", "completion": "no_depresi\u00f3n"}
+{"prompt": "Juntos somos m\u00e1s fuertes, juntos podemos todo.", "completion": "no_depresi\u00f3n"}
+{"prompt": "Felicidad en el amor.", "completion": "no_depresi\u00f3n"}
+{"prompt": "Amar y ser amado es lo mejor que me ha pasado.", "completion": "no_depresi\u00f3n"}
+{"prompt": "Motivaci\u00f3n para seguir adelante.", "completion": "no_depresi\u00f3n"}
+{"prompt": "No pares, sigue, sigue, el \u00e9xito est\u00e1 al alcance de tu mano.", "completion": "no_depresi\u00f3n"}
+{"prompt": "Agradecimiento por lo simple.", "completion": "no_depresi\u00f3n"}
+{"prompt": "Las peque\u00f1as cosas son las que hacen la vida grande.", "completion": "no_depresi\u00f3n"}
+{"prompt": "La belleza de la vida.", "completion": "no_depresi\u00f3n"}
+{"prompt": "La vida es un regalo, disfr\u00fatala cada d\u00eda.", "completion": "no_depresi\u00f3n"}
+{"prompt": "Libertad y paz interior.", "completion": "no_depresi\u00f3n"}
+{"prompt": "He encontrado mi paz, nada puede perturbarme.", "completion": "no_depresi\u00f3n"}
+{"prompt": "Alegr\u00eda y celebraci\u00f3n.", "completion": "no_depresi\u00f3n"}
+{"prompt": "Vamos a celebrar la vida, porque hoy estamos aqu\u00ed.", "completion": "no_depresi\u00f3n"}
+{"prompt": "El poder de los sue\u00f1os.", "completion": "no_depresi\u00f3n"}
+{"prompt": "Nunca dejes de so\u00f1ar, los sue\u00f1os te llevar\u00e1n lejos.", "completion": "no_depresi\u00f3n"}
+{"prompt": "Optimismo en tiempos dif\u00edciles.", "completion": "no_depresi\u00f3n"}
+{"prompt": "Aunque caiga mil veces, siempre me levantar\u00e9.", "completion": "no_depresi\u00f3n"}
+{"prompt": "Esp\u00edritu indomable.", "completion": "no_depresi\u00f3n"}
+{"prompt": "Nada ni nadie puede apagar mi luz.", "completion": "no_depresi\u00f3n"}
+{"prompt": "Disfrutar del viaje.", "completion": "no_depresi\u00f3n"}
+{"prompt": "La vida es un viaje, no te pierdas el paisaje.", "completion": "no_depresi\u00f3n"}
+{"prompt": "Confianza en el destino.", "completion": "no_depresi\u00f3n"}
+{"prompt": "Todo tiene su tiempo, lo que es para ti, llegar\u00e1.", "completion": "no_depresi\u00f3n"}
+{"prompt": "Alegr\u00eda en la naturaleza.", "completion": "no_depresi\u00f3n"}
+{"prompt": "El sol brilla para todos, el mundo est\u00e1 lleno de maravillas.", "completion": "no_depresi\u00f3n"}
+{"prompt": "Energ\u00eda vital.", "completion": "no_depresi\u00f3n"}
+{"prompt": "Siente la vida, siente la fuerza en tu coraz\u00f3n.", "completion": "no_depresi\u00f3n"}
+{"prompt": "Amor y unidad.", "completion": "no_depresi\u00f3n"}
+{"prompt": "El amor es la respuesta, el amor nos une.", "completion": "no_depresi\u00f3n"}
+{"prompt": "Creer en lo imposible.", "completion": "no_depresi\u00f3n"}
+{"prompt": "Nada es imposible si crees en ti mismo.", "completion": "no_depresi\u00f3n"}
+{"prompt": "Valorar la vida.", "completion": "no_depresi\u00f3n"}
+{"prompt": "La vida es preciosa, cu\u00eddala, disfr\u00fatala.", "completion": "no_depresi\u00f3n"}
+{"prompt": "Disfrutar del presente.", "completion": "no_depresi\u00f3n"}
+{"prompt": "Este es el mejor d\u00eda de mi vida, lo voy a disfrutar.", "completion": "no_depresi\u00f3n"}
+{"prompt": "Amor a la vida.", "completion": "no_depresi\u00f3n"}
+{"prompt": "Amo vivir, amo respirar, cada d\u00eda es una bendici\u00f3n.", "completion": "no_depresi\u00f3n"}
+{"prompt": "Victoria personal.", "completion": "no_depresi\u00f3n"}
+{"prompt": "He vencido mis miedos, soy libre al fin.", "completion": "no_depresi\u00f3n"}
+{"prompt": "Superar la adversidad.", "completion": "no_depresi\u00f3n"}
+{"prompt": "No importa cu\u00e1ntas veces caiga, siempre me levantar\u00e9.", "completion": "no_depresi\u00f3n"}
+{"prompt": "Unidad y solidaridad.", "completion": "no_depresi\u00f3n"}
+{"prompt": "Juntos somos invencibles, unidos nada nos detiene.", "completion": "no_depresi\u00f3n"}
+{"prompt": "Celebraci\u00f3n de los logros.", "completion": "no_depresi\u00f3n"}
+{"prompt": "Hoy brindo por todo lo que he logrado, soy m\u00e1s fuerte de lo que imagin\u00e9.", "completion": "no_depresi\u00f3n"}
+{"prompt": "Vida sin miedo.", "completion": "no_depresi\u00f3n"}
+{"prompt": "Hoy vivo sin miedo, sin ataduras, soy libre.", "completion": "no_depresi\u00f3n"}
+{"prompt": "Amor incondicional.", "completion": "no_depresi\u00f3n"}
+{"prompt": "El amor es lo que me impulsa a ser mejor cada d\u00eda.", "completion": "no_depresi\u00f3n"}
+{"prompt": "Poder de la risa.", "completion": "no_depresi\u00f3n"}
+{"prompt": "La risa es la mejor medicina, cura todos los males.", "completion": "no_depresi\u00f3n"}
+{"prompt": "Transformaci\u00f3n personal.", "completion": "no_depresi\u00f3n"}
+{"prompt": "He cambiado para mejor, soy una nueva versi\u00f3n de m\u00ed.", "completion": "no_depresi\u00f3n"}
+{"prompt": "Resiliencia.", "completion": "no_depresi\u00f3n"}
+{"prompt": "Aunque la vida sea dura, siempre encuentro la forma de seguir.", "completion": "no_depresi\u00f3n"}
+{"prompt": "Vivir con pasi\u00f3n.", "completion": "no_depresi\u00f3n"}
+{"prompt": "Vivo con pasi\u00f3n, cada momento cuenta.", "completion": "no_depresi\u00f3n"}
+{"prompt": "Poder interior.", "completion": "no_depresi\u00f3n"}
+{"prompt": "Dentro de m\u00ed hay una fuerza que no se puede apagar.", "completion": "no_depresi\u00f3n"}
+{"prompt": "Alegr\u00eda contagiosa.", "completion": "no_depresi\u00f3n"}
+{"prompt": "Mi alegr\u00eda se contagia, hoy todo el mundo sonr\u00ede conmigo.", "completion": "no_depresi\u00f3n"}
+{"prompt": "Apreciar el presente.", "completion": "no_depresi\u00f3n"}
+{"prompt": "El presente es un regalo, lo disfruto al m\u00e1ximo.", "completion": "no_depresi\u00f3n"}
+{"prompt": "Esperanza y fe.", "completion": "no_depresi\u00f3n"}
+{"prompt": "Tengo fe en el futuro, todo saldr\u00e1 bien.", "completion": "no_depresi\u00f3n"}
+{"prompt": "El valor del esfuerzo.", "completion": "no_depresi\u00f3n"}
+{"prompt": "El esfuerzo siempre trae su recompensa, nunca te rindas.", "completion": "no_depresi\u00f3n"}
+{"prompt": "Creer en el amor.", "completion": "no_depresi\u00f3n"}
+{"prompt": "El amor mueve monta\u00f1as, todo es posible con amor.", "completion": "no_depresi\u00f3n"}
+{"prompt": "Alegr\u00eda por estar vivo.", "completion": "no_depresi\u00f3n"}
+{"prompt": "Hoy celebro la vida, porque estar vivo es un milagro.", "completion": "no_depresi\u00f3n"}
+{"prompt": "Valorar los peque\u00f1os momentos.", "completion": "no_depresi\u00f3n"}
+{"prompt": "Los peque\u00f1os momentos son los que hacen grande la vida.", "completion": "no_depresi\u00f3n"}
+{"prompt": "Gratitud por el amor.", "completion": "no_depresi\u00f3n"}
+{"prompt": "Gracias por amarme, gracias por estar siempre conmigo.", "completion": "no_depresi\u00f3n"}
+{"prompt": "Libertad de ser uno mismo.", "completion": "no_depresi\u00f3n"}
+{"prompt": "Soy libre de ser quien quiero ser, nadie me puede detener.", "completion": "no_depresi\u00f3n"}
+{"prompt": "La belleza de lo simple.", "completion": "no_depresi\u00f3n"}
+{"prompt": "En lo simple encuentro la felicidad m\u00e1s grande.", "completion": "no_depresi\u00f3n"}
+{"prompt": "Celebraci\u00f3n de la amistad.", "completion": "no_depresi\u00f3n"}
+{"prompt": "Los amigos son la familia que elegimos, hoy celebro a mis amigos.", "completion": "no_depresi\u00f3n"}
+{"prompt": "Aceptaci\u00f3n de uno mismo.", "completion": "no_depresi\u00f3n"}
+{"prompt": "Me acepto tal como soy, y eso me hace invencible.", "completion": "no_depresi\u00f3n"}
+{"prompt": "Renovaci\u00f3n espiritual.", "completion": "no_depresi\u00f3n"}
+{"prompt": "Cada d\u00eda es una oportunidad para renovarme y crecer.", "completion": "no_depresi\u00f3n"}
+{"prompt": "Optimismo.", "completion": "no_depresi\u00f3n"}
+{"prompt": "Siempre veo el vaso medio lleno, porque todo tiene su lado positivo.", "completion": "no_depresi\u00f3n"}
+{"prompt": "Fuerza interior.", "completion": "no_depresi\u00f3n"}
+{"prompt": "Dentro de m\u00ed hay una fuerza que nadie puede destruir.", "completion": "no_depresi\u00f3n"}
+{"prompt": "Alegr\u00eda por el futuro.", "completion": "no_depresi\u00f3n"}
+{"prompt": "El futuro es brillante, lo mejor est\u00e1 por venir.", "completion": "no_depresi\u00f3n"}
+{"prompt": "Celebraci\u00f3n del amor.", "completion": "no_depresi\u00f3n"}
+{"prompt": "El amor es lo que nos hace humanos, lo celebro cada d\u00eda.", "completion": "no_depresi\u00f3n"}
+{"prompt": "Superaci\u00f3n personal.", "completion": "no_depresi\u00f3n"}
+{"prompt": "He superado mis l\u00edmites, soy m\u00e1s fuerte de lo que cre\u00eda.", "completion": "no_depresi\u00f3n"}
+{"prompt": "Vida sin l\u00edmites.", "completion": "no_depresi\u00f3n"}
+{"prompt": "No hay l\u00edmites para lo que puedo lograr, el cielo es el l\u00edmite.", "completion": "no_depresi\u00f3n"}
+{"prompt": "La importancia de la felicidad.", "completion": "no_depresi\u00f3n"}
+{"prompt": "La felicidad est\u00e1 en las peque\u00f1as cosas, solo hay que saber verla.", "completion": "no_depresi\u00f3n"}
+{"prompt": "Esperanza en el amor.", "completion": "no_depresi\u00f3n"}
+{"prompt": "Siempre hay esperanza cuando el amor est\u00e1 de nuestro lado.", "completion": "no_depresi\u00f3n"}
+{"prompt": "Energ\u00eda positiva.", "completion": "no_depresi\u00f3n"}
+{"prompt": "Hoy me lleno de energ\u00eda positiva, todo saldr\u00e1 bien.", "completion": "no_depresi\u00f3n"}
+{"prompt": "Amor por la vida.", "completion": "no_depresi\u00f3n"}
+{"prompt": "Amo la vida, cada d\u00eda es una nueva oportunidad para ser feliz.", "completion": "no_depresi\u00f3n"}
+{"prompt": "Disfrutar de la naturaleza.", "completion": "no_depresi\u00f3n"}
+{"prompt": "La naturaleza me llena de paz, me conecta con lo m\u00e1s profundo de m\u00ed.", "completion": "no_depresi\u00f3n"}
+{"prompt": "Uni\u00f3n en la adversidad.", "completion": "no_depresi\u00f3n"}
+{"prompt": "Juntos superaremos cualquier obst\u00e1culo, no estamos solos.", "completion": "no_depresi\u00f3n"}
+{"prompt": "La belleza del mundo.", "completion": "no_depresi\u00f3n"}
+{"prompt": "El mundo est\u00e1 lleno de belleza, solo hay que saber apreciarla.", "completion": "no_depresi\u00f3n"}
+{"prompt": "Agradecimiento por la vida.", "completion": "no_depresi\u00f3n"}
+{"prompt": "Gracias a la vida por darme tanto, por permitirme estar aqu\u00ed.", "completion": "no_depresi\u00f3n"}
+{"prompt": "Fortalecimiento emocional.", "completion": "no_depresi\u00f3n"}
+{"prompt": "Cada dificultad me hace m\u00e1s fuerte, nada puede detenerme.", "completion": "no_depresi\u00f3n"}
+{"prompt": "Esp\u00edritu invencible.", "completion": "no_depresi\u00f3n"}
+{"prompt": "Mi esp\u00edritu es invencible, nada puede apagar mi luz.", "completion": "no_depresi\u00f3n"}
+{"prompt": "El valor de la perseverancia.", "completion": "no_depresi\u00f3n"}
+{"prompt": "La perseverancia siempre da frutos, nunca es en vano.", "completion": "no_depresi\u00f3n"}
+{"prompt": "Felicidad.", "completion": "no_depresi\u00f3n"}
+{"prompt": "La verdadera felicidad est\u00e1 dentro de m\u00ed, no la busco en otros.", "completion": "no_depresi\u00f3n"}
+{"prompt": "Celebrar la vida cada d\u00eda.", "completion": "no_depresi\u00f3n"}
+{"prompt": "Cada d\u00eda es una nueva oportunidad para celebrar la vida.", "completion": "no_depresi\u00f3n"}
+{"prompt": "Luchar por los sue\u00f1os.", "completion": "no_depresi\u00f3n"}
+{"prompt": "No dejes de luchar por tus sue\u00f1os, todo es posible si lo intentas.", "completion": "no_depresi\u00f3n"}
+{"prompt": "La importancia de la paz.", "completion": "no_depresi\u00f3n"}
+{"prompt": "La paz interior es mi mayor tesoro, la llevo a donde voy.", "completion": "no_depresi\u00f3n"}
+{"prompt": "Disfrutar de los amigos.", "completion": "no_depresi\u00f3n"}
+{"prompt": "Con mis amigos a mi lado, cada d\u00eda es una fiesta.", "completion": "no_depresi\u00f3n"}
+{"prompt": "Mantener el esp\u00edritu fuerte.", "completion": "no_depresi\u00f3n"}
+{"prompt": "Mi esp\u00edritu se mantiene fuerte, nada me derriba.", "completion": "no_depresi\u00f3n"}
+{"prompt": "El valor de la paciencia.", "completion": "no_depresi\u00f3n"}
+{"prompt": "La paciencia es la clave, todo llega a su tiempo.", "completion": "no_depresi\u00f3n"}
+{"prompt": "Alegr\u00eda en lo cotidiano.", "completion": "no_depresi\u00f3n"}
+{"prompt": "Encuentro la alegr\u00eda en las cosas simples de cada d\u00eda.", "completion": "no_depresi\u00f3n"}
+{"prompt": "Fe en el cambio.", "completion": "no_depresi\u00f3n"}
+{"prompt": "El cambio es parte de la vida, lo abrazo con alegr\u00eda.", "completion": "no_depresi\u00f3n"}
+{"prompt": "Aceptaci\u00f3n del presente.", "completion": "no_depresi\u00f3n"}
+{"prompt": "Acepto el presente tal como es, y lo disfruto.", "completion": "no_depresi\u00f3n"}
+{"prompt": "Amor por el pr\u00f3jimo.", "completion": "no_depresi\u00f3n"}
+{"prompt": "Amar a los dem\u00e1s es lo que hace la vida m\u00e1s hermosa.", "completion": "no_depresi\u00f3n"}
+{"prompt": "Esperanza en el porvenir.", "completion": "no_depresi\u00f3n"}
+{"prompt": "El porvenir es brillante, tengo esperanza en lo que viene.", "completion": "no_depresi\u00f3n"}
+{"prompt": "Alegr\u00eda en la aventura.", "completion": "no_depresi\u00f3n"}
+{"prompt": "La vida es una aventura, la vivo con entusiasmo.", "completion": "no_depresi\u00f3n"}
+{"prompt": "Valorar el esfuerzo.", "completion": "no_depresi\u00f3n"}
+{"prompt": "El esfuerzo siempre trae recompensas, nunca es en vano.", "completion": "no_depresi\u00f3n"}
+{"prompt": "Re\u00edrse de los problemas.", "completion": "no_depresi\u00f3n"}
+{"prompt": "Re\u00edrme de los problemas me da fuerzas para seguir.", "completion": "no_depresi\u00f3n"}
+{"prompt": "Crecimiento personal.", "completion": "no_depresi\u00f3n"}
+{"prompt": "Cada d\u00eda crezco un poco m\u00e1s, cada desaf\u00edo me hace m\u00e1s fuerte.", "completion": "no_depresi\u00f3n"}
+{"prompt": "Libertad de ser feliz.", "completion": "no_depresi\u00f3n"}
+{"prompt": "Soy libre de ser feliz, no dependo de nada ni de nadie.", "completion": "no_depresi\u00f3n"}
+{"prompt": "Celebrar los logros.", "completion": "no_depresi\u00f3n"}
+{"prompt": "Cada logro es un paso m\u00e1s.", "completion": "no_depresi\u00f3n"}
+{"prompt": "Desahogo emocional.", "completion": "no_depresi\u00f3n"}
+{"prompt": "Ya no aguanto m\u00e1s, todo me est\u00e1 quemando por dentro.", "completion": "no_depresi\u00f3n"}
+{"prompt": "Grito de rebeld\u00eda.", "completion": "no_depresi\u00f3n"}
+{"prompt": "No me digas qu\u00e9 hacer, yo sigo mi propio camino.", "completion": "no_depresi\u00f3n"}
+{"prompt": "Coraje ante la injusticia.", "completion": "no_depresi\u00f3n"}
+{"prompt": "El mundo es injusto, pero no me voy a quedar callado.", "completion": "no_depresi\u00f3n"}
+{"prompt": "Lucha contra el sistema.", "completion": "no_depresi\u00f3n"}
+{"prompt": "No me controlan, no soy parte de su juego.", "completion": "no_depresi\u00f3n"}
+{"prompt": "Frustraci\u00f3n acumulada.", "completion": "no_depresi\u00f3n"}
+{"prompt": "Llevo tanto tiempo trag\u00e1ndome el enojo, ahora no me puedo detener.", "completion": "no_depresi\u00f3n"}
+{"prompt": "Sed de venganza.", "completion": "no_depresi\u00f3n"}
+{"prompt": "Voy a hacer que paguen por lo que me hicieron, no me importa nada.", "completion": "no_depresi\u00f3n"}
+{"prompt": "Ira desatada.", "completion": "no_depresi\u00f3n"}
+{"prompt": "Todo est\u00e1 ardiendo en mi interior, no puedo contener esta rabia.", "completion": "no_depresi\u00f3n"}
+{"prompt": "Enfrentarse a los enemigos.", "completion": "no_depresi\u00f3n"}
+{"prompt": "No le temo a nada, me voy a enfrentar a todos.", "completion": "no_depresi\u00f3n"}
+{"prompt": "Fuerza imparable.", "completion": "no_depresi\u00f3n"}
+{"prompt": "Nada ni nadie me va a detener, soy una fuerza de la naturaleza.", "completion": "no_depresi\u00f3n"}
+{"prompt": "Dolor convertido en furia.", "completion": "no_depresi\u00f3n"}
+{"prompt": "El dolor que siento lo voy a convertir en furia, voy a destrozar todo.", "completion": "no_depresi\u00f3n"}
+{"prompt": "Energ\u00eda explosiva.", "completion": "no_depresi\u00f3n"}
+{"prompt": "Tengo tanta energ\u00eda que me siento como una bomba a punto de estallar.", "completion": "no_depresi\u00f3n"}
+{"prompt": "Liberaci\u00f3n del enojo.", "completion": "no_depresi\u00f3n"}
+{"prompt": "No me voy a callar m\u00e1s, voy a decir todo lo que siento.", "completion": "no_depresi\u00f3n"}
+{"prompt": "Impulsividad desenfrenada.", "completion": "no_depresi\u00f3n"}
+{"prompt": "No pienso, solo act\u00fao, mi impulsividad me lleva a donde quiero.", "completion": "no_depresi\u00f3n"}
+{"prompt": "Poder agresivo.", "completion": "no_depresi\u00f3n"}
+{"prompt": "Siento el poder corriendo por mis venas, no me pueden detener.", "completion": "no_depresi\u00f3n"}
+{"prompt": "Ganas de romper todo.", "completion": "no_depresi\u00f3n"}
+{"prompt": "Quiero romper todo lo que me rodea, no puedo con este coraje.", "completion": "no_depresi\u00f3n"}
+{"prompt": "Enojo por traici\u00f3n.", "completion": "no_depresi\u00f3n"}
+{"prompt": "Me traicionaste y ahora vas a conocer mi verdadero enojo.", "completion": "no_depresi\u00f3n"}
+{"prompt": "Resistencia feroz.", "completion": "no_depresi\u00f3n"}
+{"prompt": "No me voy a rendir, aunque todo est\u00e9 en mi contra, luchar\u00e9 con furia.", "completion": "no_depresi\u00f3n"}
+{"prompt": "Frustraci\u00f3n ante la derrota.", "completion": "no_depresi\u00f3n"}
+{"prompt": "Otra vez he ca\u00eddo, pero esta vez no me voy a quedar en el suelo.", "completion": "no_depresi\u00f3n"}
+{"prompt": "Lucha interna.", "completion": "no_depresi\u00f3n"}
+{"prompt": "Hay una batalla dentro de m\u00ed, y no pienso perder.", "completion": "no_depresi\u00f3n"}
+{"prompt": "Coraje por el fracaso.", "completion": "no_depresi\u00f3n"}
+{"prompt": "Estoy harto de fracasar, esta vez no me detendr\u00e9 hasta ganar.", "completion": "no_depresi\u00f3n"}
+{"prompt": "Grito de furia.", "completion": "no_depresi\u00f3n"}
+{"prompt": "No puedo m\u00e1s, quiero gritar hasta que el mundo se entere de mi rabia.", "completion": "no_depresi\u00f3n"}
+{"prompt": "Desaf\u00edo ante la autoridad.", "completion": "no_depresi\u00f3n"}
+{"prompt": "No me van a decir lo que tengo que hacer, soy mi propio jefe.", "completion": "no_depresi\u00f3n"}
+{"prompt": "Furia en el desamor.", "completion": "no_depresi\u00f3n"}
+{"prompt": "Me rompiste el coraz\u00f3n, pero voy a salir de esta con m\u00e1s fuerza.", "completion": "no_depresi\u00f3n"}
+{"prompt": "Orgullo herido.", "completion": "no_depresi\u00f3n"}
+{"prompt": "Mi orgullo no me deja aceptar la derrota, seguir\u00e9 luchando hasta el final.", "completion": "no_depresi\u00f3n"}
+{"prompt": "Explosi\u00f3n de energ\u00eda.", "completion": "no_depresi\u00f3n"}
+{"prompt": "Siento que voy a explotar, no puedo contener esta energ\u00eda dentro de m\u00ed.", "completion": "no_depresi\u00f3n"}
+{"prompt": "Enfrentar el miedo con ira.", "completion": "no_depresi\u00f3n"}
+{"prompt": "Mi miedo se transforma en ira, no me van a hacer caer.", "completion": "no_depresi\u00f3n"}
+{"prompt": "Desahogo violento.", "completion": "no_depresi\u00f3n"}
+{"prompt": "Voy a desahogarme como nunca, no me importa si hiero a alguien en el proceso.", "completion": "no_depresi\u00f3n"}
+{"prompt": "Enojo con el mundo.", "completion": "no_depresi\u00f3n"}
+{"prompt": "El mundo est\u00e1 podrido y no me voy a quedar cruzado de brazos.", "completion": "no_depresi\u00f3n"}
+{"prompt": "Determinaci\u00f3n furiosa.", "completion": "no_depresi\u00f3n"}
+{"prompt": "Voy a lograr lo que me proponga, no importa cu\u00e1ntos obst\u00e1culos tenga.", "completion": "no_depresi\u00f3n"}
+{"prompt": "Energ\u00eda arrolladora.", "completion": "no_depresi\u00f3n"}
+{"prompt": "Soy una ola imparable, nadie puede frenarme.", "completion": "no_depresi\u00f3n"}
+{"prompt": "Actitud desafiante.", "completion": "no_depresi\u00f3n"}
+{"prompt": "\u00bfQuieres verme caer? Pues te equivocas, solo me hace m\u00e1s fuerte.", "completion": "no_depresi\u00f3n"}
+{"prompt": "Furia en la lucha.", "completion": "no_depresi\u00f3n"}
+{"prompt": "Voy a pelear hasta el \u00faltimo aliento, no me importa lo que cueste.", "completion": "no_depresi\u00f3n"}
+{"prompt": "Odio acumulado.", "completion": "no_depresi\u00f3n"}
+{"prompt": "Llevo tanto odio dentro que ya no puedo contenerlo.", "completion": "no_depresi\u00f3n"}
+{"prompt": "Enojo implacable.", "completion": "no_depresi\u00f3n"}
+{"prompt": "No me importa lo que digan, estoy enojado y no lo voy a ocultar.", "completion": "no_depresi\u00f3n"}
+{"prompt": "Sed de justicia.", "completion": "no_depresi\u00f3n"}
+{"prompt": "No me voy a quedar tranquilo hasta que vea justicia.", "completion": "no_depresi\u00f3n"}
+{"prompt": "Enfurecido por la traici\u00f3n.", "completion": "no_depresi\u00f3n"}
+{"prompt": "Me apu\u00f1alaste por la espalda, y ahora vas a conocer mi ira.", "completion": "no_depresi\u00f3n"}
+{"prompt": "Furia ante la mentira.", "completion": "no_depresi\u00f3n"}
+{"prompt": "Estoy harto de que me mientan, no voy a tolerarlo m\u00e1s.", "completion": "no_depresi\u00f3n"}
+{"prompt": "Ganas de destruir.", "completion": "no_depresi\u00f3n"}
+{"prompt": "Todo lo que est\u00e1 frente a m\u00ed lo voy a destruir, no me importa nada.", "completion": "no_depresi\u00f3n"}
+{"prompt": "Energ\u00eda brutal.", "completion": "no_depresi\u00f3n"}
+{"prompt": "Mi energ\u00eda es brutal, no hay forma de que me detengan.", "completion": "no_depresi\u00f3n"}
+{"prompt": "Rencor acumulado.", "completion": "no_depresi\u00f3n"}
+{"prompt": "He acumulado tanto rencor que ahora no hay vuelta atr\u00e1s.", "completion": "no_depresi\u00f3n"}
+{"prompt": "Impulso incontrolable.", "completion": "no_depresi\u00f3n"}
+{"prompt": "No puedo controlar lo que siento, me voy a dejar llevar por la ira.", "completion": "no_depresi\u00f3n"}
+{"prompt": "Violencia emocional.", "completion": "no_depresi\u00f3n"}
+{"prompt": "Todo mi dolor se ha transformado en violencia, y ya no puedo detenerme.", "completion": "no_depresi\u00f3n"}
+{"prompt": "Rebeli\u00f3n imparable.", "completion": "no_depresi\u00f3n"}
+{"prompt": "Nada ni nadie va a detener esta rebeli\u00f3n, estamos hartos de todo.", "completion": "no_depresi\u00f3n"}
+{"prompt": "Ganas de venganza.", "completion": "no_depresi\u00f3n"}
+{"prompt": "No descansar\u00e9 hasta vengarme de todo lo que me han hecho.", "completion": "no_depresi\u00f3n"}
+{"prompt": "Enojo por injusticias.", "completion": "no_depresi\u00f3n"}
+{"prompt": "He visto tanta injusticia que ya no puedo contener mi furia.", "completion": "no_depresi\u00f3n"}
+{"prompt": "Explosi\u00f3n emocional.", "completion": "no_depresi\u00f3n"}
+{"prompt": "Siento que voy a explotar de tanto enojo acumulado.", "completion": "no_depresi\u00f3n"}
+{"prompt": "Lucha incansable.", "completion": "no_depresi\u00f3n"}
+{"prompt": "No me voy a rendir, aunque me cueste la vida, seguir\u00e9 luchando.", "completion": "no_depresi\u00f3n"}
+{"prompt": "Resistencia agresiva.", "completion": "no_depresi\u00f3n"}
+{"prompt": "Voy a resistir, y lo har\u00e9 con agresividad, nadie va a frenarme.", "completion": "no_depresi\u00f3n"}
+{"prompt": "Determinaci\u00f3n impulsiva.", "completion": "no_depresi\u00f3n"}
+{"prompt": "No pienso en las consecuencias, solo s\u00e9 que no voy a parar.", "completion": "no_depresi\u00f3n"}
+{"prompt": "Odio transformado en fuerza.", "completion": "no_depresi\u00f3n"}
+{"prompt": "Mi odio es mi combustible, voy a seguir adelante hasta el final.", "completion": "no_depresi\u00f3n"}
+{"prompt": "Descontrol emocional.", "completion": "no_depresi\u00f3n"}
+{"prompt": "No puedo controlar lo que siento, todo se ha desbordado.", "completion": "no_depresi\u00f3n"}
+{"prompt": "Enojo hacia uno mismo.", "completion": "no_depresi\u00f3n"}
+{"prompt": "Estoy furioso conmigo mismo, pero eso me da m\u00e1s fuerza para seguir.", "completion": "no_depresi\u00f3n"}
+{"prompt": "Sed de pelea.", "completion": "no_depresi\u00f3n"}
+{"prompt": "Quiero pelear, quiero enfrentar a cualquiera que se cruce en mi camino.", "completion": "no_depresi\u00f3n"}
+{"prompt": "Reacci\u00f3n explosiva.", "completion": "no_depresi\u00f3n"}
+{"prompt": "Ya no aguanto m\u00e1s, voy a reaccionar de manera explosiva ante todo.", "completion": "no_depresi\u00f3n"}
+{"prompt": "Impulsividad desbordada.", "completion": "no_depresi\u00f3n"}
+{"prompt": "No puedo contenerme, mi impulsividad est\u00e1 fuera de control.", "completion": "no_depresi\u00f3n"}
+{"prompt": "Furia interna.", "completion": "no_depresi\u00f3n"}
+{"prompt": "Todo est\u00e1 hirviendo dentro de m\u00ed, no puedo calmar esta furia interna.", "completion": "no_depresi\u00f3n"}
+{"prompt": "Venganza emocional.", "completion": "no_depresi\u00f3n"}
+{"prompt": "Me hiciste da\u00f1o, pero ahora me toca a m\u00ed.", "completion": "no_depresi\u00f3n"}
+{"prompt": "Grito desesperado.", "completion": "no_depresi\u00f3n"}
+{"prompt": "Estoy desesperado, quiero gritar hasta que el mundo se entere de lo que siento.", "completion": "no_depresi\u00f3n"}
+{"prompt": "Violencia contenida.", "completion": "no_depresi\u00f3n"}
+{"prompt": "He contenido mi violencia tanto tiempo, pero ahora va a salir a la luz.", "completion": "no_depresi\u00f3n"}
+{"prompt": "Furia ante la traici\u00f3n.", "completion": "no_depresi\u00f3n"}
+{"prompt": "Me traicionaste, y ahora vas a ver mi verdadero enojo.", "completion": "no_depresi\u00f3n"}
+{"prompt": "Enfrentar el miedo con agresividad.", "completion": "no_depresi\u00f3n"}
+{"prompt": "Mi miedo se transforma en agresividad, no me voy a rendir.", "completion": "no_depresi\u00f3n"}
+{"prompt": "Coraje en la adversidad.", "completion": "no_depresi\u00f3n"}
+{"prompt": "Estoy lleno de coraje, no importa lo que venga, voy a seguir adelante.", "completion": "no_depresi\u00f3n"}
+{"prompt": "Enojo por la falsedad.", "completion": "no_depresi\u00f3n"}
+{"prompt": "Estoy cansado de la falsedad, no voy a tolerarla m\u00e1s.", "completion": "no_depresi\u00f3n"}
+{"prompt": "Energ\u00eda incontrolable.", "completion": "no_depresi\u00f3n"}
+{"prompt": "Mi energ\u00eda est\u00e1 fuera de control, no hay forma de que me detengan.", "completion": "no_depresi\u00f3n"}
+{"prompt": "Sed de justicia agresiva.", "completion": "no_depresi\u00f3n"}
+{"prompt": "Voy a hacer justicia con mis propias manos, no me importa lo que cueste.", "completion": "no_depresi\u00f3n"}
+{"prompt": "Rebeli\u00f3n violenta.", "completion": "no_depresi\u00f3n"}
+{"prompt": "No quiero paz, quiero una rebeli\u00f3n violenta contra todo lo que est\u00e1 mal.", "completion": "no_depresi\u00f3n"}
+{"prompt": "Enojo por la impotencia.", "completion": "no_depresi\u00f3n"}
+{"prompt": "La impotencia me llena de furia, ya no puedo m\u00e1s.", "completion": "no_depresi\u00f3n"}
+{"prompt": "Resistencia furiosa.", "completion": "no_depresi\u00f3n"}
+{"prompt": "Voy a resistir con toda mi furia, no me van a vencer.", "completion": "no_depresi\u00f3n"}
+{"prompt": "Furia desbordada.", "completion": "no_depresi\u00f3n"}
+{"prompt": "Mi furia ya no tiene l\u00edmites, todo est\u00e1 fuera de control.", "completion": "no_depresi\u00f3n"}
+{"prompt": "Desaf\u00edo a la autoridad.", "completion": "no_depresi\u00f3n"}
+{"prompt": "No me vas a decir qu\u00e9 hacer, voy a hacer lo que quiera.", "completion": "no_depresi\u00f3n"}
+{"prompt": "Enfrentar a los traidores.", "completion": "no_depresi\u00f3n"}
+{"prompt": "Voy a enfrentar a todos los que me traicionaron, no tengo miedo.", "completion": "no_depresi\u00f3n"}
+{"prompt": "Ira ante la derrota.", "completion": "no_depresi\u00f3n"}
+{"prompt": "Perd\u00ed, pero no me voy a rendir, mi ira me impulsa a seguir.", "completion": "no_depresi\u00f3n"}
+{"prompt": "Ganas de gritar.", "completion": "no_depresi\u00f3n"}
+{"prompt": "Quiero gritar tan fuerte que todos sientan lo que llevo dentro.", "completion": "no_depresi\u00f3n"}
+{"prompt": "Venganza implacable.", "completion": "no_depresi\u00f3n"}
+{"prompt": "No voy a parar hasta que me vengue, no me importa el precio.", "completion": "no_depresi\u00f3n"}
+{"prompt": "Furia en el desamor.", "completion": "no_depresi\u00f3n"}
+{"prompt": "Me dejaste, pero no voy a quedarme llorando, mi furia me dar\u00e1 fuerza.", "completion": "no_depresi\u00f3n"}
+{"prompt": "Impulso destructivo.", "completion": "no_depresi\u00f3n"}
+{"prompt": "No puedo m\u00e1s, quiero destruir todo lo que est\u00e1 a mi alrededor.", "completion": "no_depresi\u00f3n"}
+{"prompt": "Enojo con uno mismo.", "completion": "no_depresi\u00f3n"}
+{"prompt": "Estoy tan enojado conmigo mismo que voy a cambiarlo todo.", "completion": "no_depresi\u00f3n"}
+{"prompt": "Frustraci\u00f3n que arde.", "completion": "no_depresi\u00f3n"}
+{"prompt": "Mi frustraci\u00f3n es como fuego, lo consume todo a su paso.", "completion": "no_depresi\u00f3n"}
+{"prompt": "Coraje inquebrantable.", "completion": "no_depresi\u00f3n"}
+{"prompt": "Nada ni nadie me va a quebrar, mi coraje es m\u00e1s fuerte que nunca.", "completion": "no_depresi\u00f3n"}
+{"prompt": "Explosi\u00f3n de fuerza.", "completion": "no_depresi\u00f3n"}
+{"prompt": "Voy a liberar toda mi fuerza, no puedo contenerla m\u00e1s.", "completion": "no_depresi\u00f3n"}
+{"prompt": "Impulsividad sin freno.", "completion": "no_depresi\u00f3n"}
+{"prompt": "No hay freno para mi impulsividad, me lleva a donde quiera.", "completion": "no_depresi\u00f3n"}
+{"prompt": "Energ\u00eda desbordante.", "completion": "no_depresi\u00f3n"}
+{"prompt": "Mi energ\u00eda est\u00e1 desbordante, no puedo quedarme quieto.", "completion": "no_depresi\u00f3n"}
+{"prompt": "Rabia justificada.", "completion": "no_depresi\u00f3n"}
+{"prompt": "La gratitud transforma lo que tenemos en suficiente.", "completion": "no_depresi\u00f3n"}
+{"prompt": "Cada d\u00eda es una nueva oportunidad para ser feliz.", "completion": "no_depresi\u00f3n"}
+{"prompt": "La alegr\u00eda es el sol que ilumina nuestro camino.", "completion": "no_depresi\u00f3n"}
+{"prompt": "La esperanza es el sue\u00f1o del hombre despierto.", "completion": "no_depresi\u00f3n"}
+{"prompt": "Sonr\u00ede, y el mundo sonreir\u00e1 contigo.", "completion": "no_depresi\u00f3n"}
+{"prompt": "La felicidad no es un destino, es una forma de viajar.", "completion": "no_depresi\u00f3n"}
+{"prompt": "Cada peque\u00f1o logro es un paso hacia grandes sue\u00f1os.", "completion": "no_depresi\u00f3n"}
+{"prompt": "La bondad es el lenguaje que los sordos pueden o\u00edr y los ciegos pueden ver.", "completion": "no_depresi\u00f3n"}
+{"prompt": "Rodearse de personas positivas ilumina nuestra vida.", "completion": "no_depresi\u00f3n"}
+{"prompt": "La paz interior comienza con una sonrisa.", "completion": "no_depresi\u00f3n"}
+{"prompt": "Agradezco cada momento que me hace sentir vivo.", "completion": "no_depresi\u00f3n"}
+{"prompt": "La risa es el mejor remedio para el alma.", "completion": "no_depresi\u00f3n"}
+{"prompt": "La confianza en uno mismo es el primer paso hacia el \u00e9xito.", "completion": "no_depresi\u00f3n"}
+{"prompt": "La felicidad es contagiosa, as\u00ed que comp\u00e1rtela con los dem\u00e1s.", "completion": "no_depresi\u00f3n"}
+{"prompt": "El amor es la fuerza m\u00e1s poderosa del universo.", "completion": "no_depresi\u00f3n"}
+{"prompt": "Vive la vida al m\u00e1ximo, porque cada d\u00eda es un regalo.", "completion": "no_depresi\u00f3n"}
+{"prompt": "Nunca dejes de so\u00f1ar, el cielo es el l\u00edmite.", "completion": "no_depresi\u00f3n"}
+{"prompt": "La felicidad se encuentra en las peque\u00f1as cosas de la vida.", "completion": "no_depresi\u00f3n"}
+{"prompt": "Baila bajo la lluvia y abraza cada momento.", "completion": "no_depresi\u00f3n"}
+{"prompt": "La luz del amor brilla m\u00e1s fuerte en la oscuridad.", "completion": "no_depresi\u00f3n"}
+{"prompt": "Eres capaz de lograr todo lo que te propongas.", "completion": "no_depresi\u00f3n"}
+{"prompt": "La vida es una fiesta, as\u00ed que celebra cada instante.", "completion": "no_depresi\u00f3n"}
+{"prompt": "Siente la m\u00fasica en tu coraz\u00f3n y deja que te lleve.", "completion": "no_depresi\u00f3n"}
+{"prompt": "Con cada paso, est\u00e1s m\u00e1s cerca de tus sue\u00f1os.", "completion": "no_depresi\u00f3n"}
+{"prompt": "Mant\u00e9n la fe, porque siempre hay un nuevo amanecer.", "completion": "no_depresi\u00f3n"}
+{"prompt": "La amistad es el tesoro m\u00e1s valioso que puedes tener.", "completion": "no_depresi\u00f3n"}
+{"prompt": "Deja que tu esp\u00edritu vuele libre como el viento.", "completion": "no_depresi\u00f3n"}
+{"prompt": "Siempre hay una raz\u00f3n para sonre\u00edr, incluso en los d\u00edas nublados.", "completion": "no_depresi\u00f3n"}
+{"prompt": "El amor es la melod\u00eda que hace que todo valga la pena.", "completion": "no_depresi\u00f3n"}
+{"prompt": "Cada experiencia es una lecci\u00f3n que nos hace m\u00e1s fuertes.", "completion": "no_depresi\u00f3n"}
+{"prompt": "solo contigo me siento bien, y no s\u00e9 si realmente sientes lo mismo, pero estoy feliz de tenerte.", "completion": "no_depresi\u00f3n"}
+{"prompt": "estoy en el mejor momento de mi vida, todo me est\u00e1 saliendo bien, me est\u00e1 yendo bien y estoy completamente feliz q mas puedo pedir?", "completion": "no_depresi\u00f3n"}
+{"prompt": "La felicidad es un estado emocional caracterizado por sentimientos de satisfacci\u00f3n, alegr\u00eda y bienestar. Aunque su definici\u00f3n puede variar seg\u00fan contextos culturales y personales, se puede considerar desde diversas perspectivas:", "completion": "no_depresi\u00f3n"}
+{"prompt": "Emocional: Se refiere a la experiencia subjetiva de emociones positivas y la ausencia de emociones negativas.", "completion": "no_depresi\u00f3n"}
+{"prompt": "Psicol\u00f3gica: En psicolog\u00eda, la felicidad a menudo se relaciona con el concepto de bienestar subjetivo, que incluye aspectos como la satisfacci\u00f3n con la vida, el sentido de prop\u00f3sito y el logro de metas personales.", "completion": "no_depresi\u00f3n"}
+{"prompt": "Filos\u00f3fica: Diferentes corrientes filos\u00f3ficas han explorado la felicidad. Por ejemplo, los estoicos la ven como un estado de virtud y sabidur\u00eda, mientras que los hedonistas la relacionan con el placer y la satisfacci\u00f3n de deseos.", "completion": "no_depresi\u00f3n"}
+{"prompt": "Cultural: La percepci\u00f3n de la felicidad tambi\u00e9n est\u00e1 influenciada por factores culturales, donde diferentes sociedades pueden valorar distintos aspectos como la familia, el \u00e9xito personal o la comunidad.", "completion": "no_depresi\u00f3n"}
+{"prompt": "La paz es un concepto que abarca diferentes significados y dimensiones, tanto a nivel personal como social. Generalmente, se asocia con la ausencia de conflicto, violencia o perturbaciones. Algunos aspectos clave del significado de la paz incluyen:", "completion": "no_depresi\u00f3n"}
+{"prompt": "Paz interna: Se refiere a un estado de tranquilidad y armon\u00eda dentro de uno mismo. Implica la ausencia de ansiedad, estr\u00e9s o conflictos internos, y se asocia con sentimientos de bienestar emocional y equilibrio mental.", "completion": "no_depresi\u00f3n"}
+{"prompt": "Paz social: Es el estado de armon\u00eda y convivencia pac\u00edfica entre las personas y grupos en una sociedad. Se manifiesta a trav\u00e9s de la resoluci\u00f3n pac\u00edfica de conflictos, el respeto mutuo y la promoci\u00f3n de la justicia social.", "completion": "no_depresi\u00f3n"}
+{"prompt": "Paz mundial: Este concepto se refiere a la ausencia de guerras y conflictos entre naciones. Implica la cooperaci\u00f3n internacional, el respeto por los derechos humanos y el desarrollo sostenible.", "completion": "no_depresi\u00f3n"}
+{"prompt": "Paz espiritual: En un contexto m\u00e1s filos\u00f3fico o religioso, la paz puede relacionarse con un sentido de conexi\u00f3n con lo divino o con una comprensi\u00f3n m\u00e1s profunda de la existencia.", "completion": "no_depresi\u00f3n"}
+{"prompt": "La paz es un valor fundamental que se busca en diferentes contextos, y su promoci\u00f3n es esencial para el desarrollo humano y la convivencia arm\u00f3nica en el mundo.", "completion": "no_depresi\u00f3n"}
+{"prompt": "La relajaci\u00f3n es un estado f\u00edsico y mental caracterizado por la reducci\u00f3n de la tensi\u00f3n y el estr\u00e9s. Se trata de un proceso que permite al cuerpo y a la mente descansar y recuperarse. Algunos aspectos importantes del significado de la relajaci\u00f3n incluyen:", "completion": "no_depresi\u00f3n"}
+{"prompt": "F\u00edsica: La relajaci\u00f3n f\u00edsica implica la disminuci\u00f3n de la tensi\u00f3n muscular, lo que puede llevar a una sensaci\u00f3n de alivio y comodidad. Esto se puede lograr a trav\u00e9s de t\u00e9cnicas como estiramientos, masajes o ejercicios de respiraci\u00f3n.", "completion": "no_depresi\u00f3n"}
+{"prompt": "Mental: La relajaci\u00f3n mental se refiere a la liberaci\u00f3n de pensamientos y preocupaciones que generan estr\u00e9s. Esto puede incluir la meditaci\u00f3n, la visualizaci\u00f3n y otras pr\u00e1cticas que fomentan la calma y la claridad mental.", "completion": "no_depresi\u00f3n"}
+{"prompt": "Emocional: La relajaci\u00f3n tambi\u00e9n est\u00e1 relacionada con la gesti\u00f3n de las emociones. Puede ayudar a disminuir la ansiedad, la irritabilidad y otros estados emocionales negativos, promoviendo un estado de bienestar general.", "completion": "no_depresi\u00f3n"}
+{"prompt": "Beneficios: La relajaci\u00f3n tiene numerosos beneficios para la salud, incluyendo la mejora de la calidad del sue\u00f1o, el fortalecimiento del sistema inmunol\u00f3gico y la reducci\u00f3n del riesgo de enfermedades relacionadas con el estr\u00e9s.", "completion": "no_depresi\u00f3n"}
+{"prompt": "El amor es un sentimiento complejo y multifac\u00e9tico que se manifiesta de diversas maneras en las relaciones humanas. Generalmente, se puede definir como una profunda conexi\u00f3n emocional y afectiva hacia otra persona, aunque tambi\u00e9n puede extenderse a uno mismo, a familiares, amigos, objetos o ideas. Algunos aspectos clave del significado del amor incluyen:", "completion": "no_depresi\u00f3n"}
+{"prompt": "Rom\u00e1ntico: El amor rom\u00e1ntico implica una atracci\u00f3n emocional y f\u00edsica hacia otra persona, a menudo asociada con el deseo, la intimidad y el compromiso. Puede incluir tanto la pasi\u00f3n como la ternura.", "completion": "no_depresi\u00f3n"}
+{"prompt": "Familiar: Este tipo de amor se refiere al afecto que se siente hacia los miembros de la familia. Es un v\u00ednculo que se caracteriza por la lealtad, el apoyo y la comprensi\u00f3n mutua.", "completion": "no_depresi\u00f3n"}
+{"prompt": "Amistoso: El amor entre amigos se basa en la confianza, el respeto y el apoyo emocional. Este tipo de amor fomenta la conexi\u00f3n y la camarader\u00eda en las relaciones no familiares.", "completion": "no_depresi\u00f3n"}
+{"prompt": "Incondicional: El amor incondicional es aquel que se ofrece sin expectativas ni condiciones. Se asocia frecuentemente con el amor parental o con relaciones profundamente solidarias.", "completion": "no_depresi\u00f3n"}
+{"prompt": "Propio: El amor hacia uno mismo implica el reconocimiento y la aceptaci\u00f3n de las propias cualidades y defectos. Es fundamental para el bienestar emocional y la autoestima.", "completion": "no_depresi\u00f3n"}
+{"prompt": "El amor puede ser una fuente de felicidad y satisfacci\u00f3n, pero tambi\u00e9n puede conllevar desaf\u00edos y sufrimiento. A lo largo de la historia, ha sido objeto de reflexi\u00f3n en diversas disciplinas, incluyendo la filosof\u00eda, la psicolog\u00eda y la literatura, lo que resalta su importancia en la experiencia humana.", "completion": "no_depresi\u00f3n"}
+{"prompt": "El enojo es una emoci\u00f3n que se caracteriza por una respuesta afectiva intensa y negativa hacia situaciones, personas o eventos que se perciben como injustos, amenazantes o frustrantes. Aqu\u00ed hay algunos aspectos clave sobre el significado del enojo:", "completion": "no_depresi\u00f3n"}
+{"prompt": "Emoci\u00f3n natural: El enojo es una respuesta emocional normal y universal que todos experimentamos en alg\u00fan momento. Puede ser una reacci\u00f3n a la percepci\u00f3n de una ofensa, deshonra, frustraci\u00f3n o agresi\u00f3n.", "completion": "no_depresi\u00f3n"}
+{"prompt": "Funciones: El enojo puede tener funciones adaptativas, como se\u00f1alar que algo no est\u00e1 bien o motivar a una persona a tomar acci\u00f3n para resolver un problema o enfrentar una injusticia.", "completion": "no_depresi\u00f3n"}
+{"prompt": "Manifestaciones: El enojo puede manifestarse de diversas maneras, incluyendo reacciones f\u00edsicas (aumento del ritmo card\u00edaco, tensi\u00f3n muscular), cambios en el comportamiento (gritar, pelear) y efectos en la comunicaci\u00f3n (expresiones verbales o no verbales).", "completion": "no_depresi\u00f3n"}
+{"prompt": "Regulaci\u00f3n: La gesti\u00f3n adecuada del enojo es fundamental para el bienestar emocional. Aprender a reconocer, expresar y canalizar el enojo de manera constructiva puede prevenir conflictos y mejorar las relaciones interpersonales.", "completion": "no_depresi\u00f3n"}
+{"prompt": "Consecuencias: Si no se maneja adecuadamente, el enojo puede conducir a problemas de salud, conflictos en las relaciones y comportamientos destructivos.", "completion": "no_depresi\u00f3n"}
+{"prompt": "El orgullo es un sentimiento o estado emocional que puede tener connotaciones tanto positivas como negativas, dependiendo del contexto. Aqu\u00ed se detallan algunos aspectos clave del orgullo:", "completion": "no_depresi\u00f3n"}
+{"prompt": "Sentido de autoestima: El orgullo puede referirse a la satisfacci\u00f3n o el aprecio que una persona siente por sus propios logros, cualidades o habilidades. Este tipo de orgullo se asocia con la autoestima y la autoafirmaci\u00f3n, promoviendo una imagen positiva de uno mismo.", "completion": "no_depresi\u00f3n"}
+{"prompt": "Orgullo cultural o grupal: Se refiere al sentido de pertenencia y aprecio por la identidad cultural, hist\u00f3rica o social de un grupo. Este tipo de orgullo puede fortalecer los lazos comunitarios y fomentar la cohesi\u00f3n social.", "completion": "no_depresi\u00f3n"}
+{"prompt": "Orgullo negativo: Tambi\u00e9n puede tener una connotaci\u00f3n negativa, relacionada con la arrogancia o la soberbia. Este tipo de orgullo implica una actitud de superioridad hacia los dem\u00e1s y puede dificultar las relaciones interpersonales, ya que la persona puede mostrarse despectiva o inflexible.", "completion": "no_depresi\u00f3n"}
+{"prompt": "Consecuencias: El orgullo, cuando es equilibrado y positivo, puede motivar a las personas a alcanzar sus metas y a valorar sus contribuciones. Sin embargo, un orgullo desmedido o mal dirigido puede llevar a conflictos, resentimientos y aislamiento.", "completion": "no_depresi\u00f3n"}
