@@ -37,13 +37,3 @@ class MoodGuardian:
         message_content = response['choices'][0]['message']['content']
         self.messages.append({"role": "system", "content": message_content})
         return message_content
-
-if __name__ == "__main__":
-    mood_guardian = MoodGuardian()
-    while True:
-        user_message = input("Tú: ")
-        mood_guardian.add_user_message(user_message)
-        response = mood_guardian.get_response()
-        print(f"Sistema: {response}")
-        if response == "No entiendo":
-            break
