@@ -1,15 +1,15 @@
 import openai
 import os
-from dotenv import load_dotenv
+# from dotenv import load_dotenv
 
 # Cargar las variables de entorno
-load_dotenv()
+# load_dotenv()
+
+# Configurar la API de OpenAI
+openai.api_key = os.getenv("OPENAI_API_KEY")
 
 class MoodGuardian:
     def __init__(self):
-        # Configurar la API de OpenAI
-        openai.api_key = os.getenv("OPENAI_API_KEY")
-        
         # Mensaje inicial del asistente
         self.messages = [
             {

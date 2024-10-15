@@ -13,8 +13,8 @@ def chat():
     try:
         # Verificar que el mensaje esté presente en el cuerpo de la solicitud
         data = request.get_json()
-        if "message" not in data:
-            return jsonify({"error": "No message provided"}), 400
+        if data is None or "message" not in data:
+            return jsonify({"error": "Mensaje no encontrado"}), 400
         
         user_message = data["message"]
         mood_guardian.add_user_message(user_message)
