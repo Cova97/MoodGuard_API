@@ -15,19 +15,19 @@ def chat():
         data = request.get_json()
         if data is None or "message" not in data:
             return jsonify({"error": "Mensaje no encontrado"}), 400
-        
+
         user_message = data["message"]
-        
+
         # Agregar el mensaje del usuario y obtener la respuesta
         mood_guardian.add_user_message(user_message)
         response = mood_guardian.get_response()
-        
+
         if not response:
             return jsonify({"error": "No se pudo procesar el mensaje"}), 500
-        
+
         # Retornar la respuesta en formato JSON
         return jsonify({"message": response}), 200
-    
+
     except Exception as e:
         # Manejo de excepciones generales
         return jsonify({"error": str(e)}), 500
